@@ -26,7 +26,8 @@ Netlify documentation: [create deploys](https://docs.netlify.com/deploy/create-d
 ## Included
 
 - 84 questions: 74 technical answers plus 10 original HR coaching prompts; basic, intermediate, and advanced levels.
-- 14-day guided plan and four role tracks: Pharma QC, Food & water, Research, and Clinical research.
+- **Study library:** all 180 study resources in one topic-based shelf, with one search, role/topic/level filters, open-all reading, quick revision, untimed recall cards, saved material, and personal revision notes. The home page leads here; there are no daily targets in this view.
+- Optional 14-day guided plan and four role tracks: Pharma QC, Food & water, Research, and Clinical research.
 - Search, combined filters, bookmarks, reviewed status, and print-friendly revision pages.
 - Randomized five- or ten-question mocks, an optional timer, written drafts, self-assessment, and the last 30 completed sessions.
 - Eight company guides: Sun Pharma, Dr. Reddy’s, Cipla, Biocon, Syngene, Eurofins, SGS, and IQVIA.
@@ -56,7 +57,7 @@ npm run preview
 
 ## Progress and privacy
 
-Progress is stored in the visitor’s browser using localStorage. Each device/browser has its own data. Use the settings icon beside her name to export a JSON backup and import it on another device. Import replaces existing progress after confirmation. Completed mocks are included; an unfinished mock draft stays in its current browser and is excluded from backups. Imports clear any unfinished local mock.
+Progress is stored in the visitor’s browser using localStorage. Each device/browser has its own data. Library bookmarks, question-bank saves, and project/company notes are shared across their respective views; the backup also includes bookmarks for projects, company prep, references, and other library material. Use the settings icon beside her name to export a JSON backup and import it on another device. Import replaces existing progress after confirmation. Completed mocks are included; an unfinished mock draft stays in its current browser and is excluded from backups. Imports clear any unfinished local mock.
 
 No CV phone number, email, street address, or original CV file is shipped. The website does include her name, education, and professional background for personalization. A normal Netlify deployment is reachable by anyone with its URL; `noindex` discourages search indexing and does not create password protection. There is no cloud sync or automatic application submission.
 
@@ -79,9 +80,10 @@ The optional browser scripts use Playwright and require its Chromium runtime. Wi
 ```sh
 node scripts/browser-check.mjs
 node scripts/edge-check.mjs
+node scripts/library-check.mjs
 ```
 
-Set `PLAYWRIGHT_MODULE` to an absolute installed Playwright package path if needed, and `TEST_URL` to test another local origin. Browser checks cover navigation, saved progress, full mock completion, notes, application CRUD, backup round trip, mobile layout, keyboard navigation, draft recovery, timer pausing, cancellation, and stale backup handling. They create screenshots in `output/playwright/` and never contact employers.
+Set `PLAYWRIGHT_MODULE` to an absolute installed Playwright package path if needed, and `TEST_URL` to test another local origin. Browser checks cover navigation, saved progress, full mock completion, notes, application CRUD, backup round trip, mobile layout, keyboard navigation, draft recovery, timer pausing, cancellation, stale backup handling, cross-resource library search, shared bookmarks and notes, recall cards, and library layouts down to 360px. They create screenshots in `output/playwright/` and never contact employers.
 
 ## The little surprises
 
