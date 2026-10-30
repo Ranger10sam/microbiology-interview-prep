@@ -21,6 +21,8 @@ button.quick-card{text-align:left;color:inherit;font:inherit}
 .library-welcome{background:#e9eddf;border:1px solid #e1e7d5;border-radius:17px;padding:25px 28px;margin-bottom:22px;display:flex;align-items:center;justify-content:space-between;gap:25px}
 .library-welcome h2{font:28px/1.4 Georgia,serif;letter-spacing:-.7px;margin:10px 0}
 .library-welcome p{font-size:12px;color:#5e7050;margin:0;max-width:650px}
+.library-download{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:17px}
+.library-download>span{font-size:11px;color:#5e7050;line-height:1.6}
 .library-welcome-icon{display:grid;place-items:center;background:#f3f5e9;border-radius:50%;width:85px;height:85px;color:#7d9463;flex-shrink:0}
 .library-controls{padding:22px 24px;box-shadow:none}
 .library-controls>label{font-size:12px;margin-bottom:10px}

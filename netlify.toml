@@ -19,3 +19,9 @@
   for = "/content/*"
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/downloads/*.docx"
+  [headers.values]
+    Content-Type = "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    Content-Disposition = "attachment"

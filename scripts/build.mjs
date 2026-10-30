@@ -6,5 +6,7 @@ validateContent({ questions, sources, companies, companySources, journey });
 await mkdir('dist', { recursive: true });
 for (const file of ['index.html', 'styles.css', 'app.js', 'core.js', 'library.js', 'favicon.svg']) await copyFile(file, `dist/${file}`);
 await cp('content', 'dist/content', { recursive: true });
+await cp('downloads', 'dist/downloads', { recursive: true });
 await writeFile('dist/_headers', `/*\n  X-Content-Type-Options: nosniff\n  X-Frame-Options: DENY\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Robots-Tag: noindex, nofollow\n  Permissions-Policy: camera=(), microphone=(), geolocation=()\n  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'\n`);
+await writeFile('dist/_headers', '/downloads/*.docx\n  Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document\n  Content-Disposition: attachment\n', { flag: 'a' });
 console.log(`Built Culture: ${questions.length} questions, ${companies.length} companies, ${sources.length + companySources.length} references. Deploy the dist folder.`);

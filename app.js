@@ -200,7 +200,7 @@ function libraryPage() {
   const savedCount = D.library.filter(entry => isLibrarySaved(entry, S)).length;
   return `${heading('Your always-open corner of microbiology', 'The study library', 'Everything in one place. Read any topic, remember the essentials, and return whenever you want. No schedule, no targets.', btn('Print this selection', 'library-print', 'print', 'secondary'))}
     <section class="library-welcome" aria-label="Ways to use the library">
-      <div><span class="label">ONE SHELF. YOUR OWN PACE.</span><h2>Refer. Understand. Remember. Revisit.</h2><p>All ${D.questions.length} questions, your project stories, HR answers, company prep, and ${D.allSources.length} references live here.</p></div>
+      <div><span class="label">ONE SHELF. YOUR OWN PACE.</span><h2>Refer. Understand. Remember. Revisit.</h2><p>All ${D.questions.length} questions, your project stories, HR answers, company prep, and ${D.allSources.length} references live here.</p><div class="library-download"><a class="btn secondary" href="/downloads/Srijita_Banerjee_Microbiology_Interview_Handbook.docx" download>${I('download',15)} Download Word handbook</a><span>38 pages · Word document · ready for A4 printing</span></div></div>
       <span class="library-welcome-icon">${I('book',42)}</span>
     </section>
     <section class="card library-controls" aria-label="Find study material">

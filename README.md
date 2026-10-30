@@ -27,6 +27,7 @@ Netlify documentation: [create deploys](https://docs.netlify.com/deploy/create-d
 
 - 84 questions: 74 technical answers plus 10 original HR coaching prompts; basic, intermediate, and advanced levels.
 - **Study library:** all 180 study resources in one topic-based shelf, with one search, role/topic/level filters, open-all reading, quick revision, untimed recall cards, saved material, and personal revision notes. The home page leads here; there are no daily targets in this view.
+- **Printable Word handbook:** use **Download Word handbook** near the top of the study library for the 38-page A4 question-and-answer document. The file is versioned in `downloads/` and copied into the production build. Its public path is `/downloads/Srijita_Banerjee_Microbiology_Interview_Handbook.docx`.
 - Optional 14-day guided plan and four role tracks: Pharma QC, Food & water, Research, and Clinical research.
 - Search, combined filters, bookmarks, reviewed status, and print-friendly revision pages.
 - Randomized five- or ten-question mocks, an optional timer, written drafts, self-assessment, and the last 30 completed sessions.
