@@ -1,0 +1,375 @@
+{
+  "intro": {
+    "headline": "A fresher with real lab stories to tell.",
+    "pitch": "I'm Srijita Banerjee, a Microbiology postgraduate from Sister Nivedita University, with 88% in my M.Sc. My academic projects covered food and water microbiology, antibiotic susceptibility testing, and isolation of soil microorganisms. During internships at AIIHPH and BITM's Biotech Lab, I gained exposure to food-safety research and scientific demonstrations. I also have foundational training in clinical research. I'm looking for an entry-level role where I can apply careful laboratory practice, clear documentation, and a willingness to learn the team's procedures. I would be happy to explain one of my projects in more detail.",
+    "closer": "Choose the final sentence to match the vacancy: quality control, food testing, research support, or clinical research. Say it naturally; this is a starting point, not a script to memorize."
+  },
+  "projects": [
+    {
+      "id": "sweets",
+      "title": "Staphylococcal species in Kolkata sweets",
+      "tag": "Food safety · AIIHPH",
+      "summary": "Your strongest bridge to food testing and microbiology QC interviews.",
+      "answer": "My project focused on isolating and identifying pathogenic Staphylococcal species in sweets sold in Kolkata markets. The food-safety question was what the microbiological findings could tell us about the samples. I would explain the study aim, the sample handling and identification methods I actually used, the controls, and the observations recorded in my report. I would also distinguish an identification result from a claim about toxin production. The experience gives me a concrete project to discuss when talking about careful laboratory work and scientific reporting.",
+      "followUps": [
+        {
+          "question": "What was your individual contribution?",
+          "answer": "Name the steps you personally performed and separate them from work you observed or did with a supervisor. Use your notebook to confirm the details before the interview. Teamwork is a strength; you do not need to claim the entire study."
+        },
+        {
+          "question": "What did you find?",
+          "answer": "State only the findings supported by your report. If you cannot recall a count or identification detail, say you would verify the record rather than estimate. Your CV does not provide results, so add them to your spoken answer only after checking."
+        },
+        {
+          "question": "What would you improve in a repeat study?",
+          "answer": "Discuss one realistic improvement, such as a clearer sampling plan, better traceability, or an additional validated confirmation step. Explain the reason, and avoid claiming that an improvement was part of the original study if it was not."
+        }
+      ],
+      "honestyNote": "Do not invent sample numbers, contamination rates, species-level confirmation, enterotoxin testing, or a public-health conclusion. Verify these against the project report."
+    },
+    {
+      "id": "ast",
+      "title": "Kirby–Bauer antibiotic susceptibility testing",
+      "tag": "Academic project · AST",
+      "summary": "A useful story about measurement, controls, and interpretation.",
+      "answer": "I worked on antibiotic susceptibility testing of Gram-negative bacteria using the Kirby–Bauer disc diffusion method. In an interview, I would explain the purpose of the test, the preparation and measurement steps I actually performed, and how results were interpreted in that project. A zone size needs the correct organism–antimicrobial criteria and the applicable standard; it is not meaningful to compare every disc directly. I would describe my level of supervision clearly and check my report before quoting any isolate or antibiotic result.",
+      "followUps": [
+        {
+          "question": "Which antibiotics and organisms did you test?",
+          "answer": "Give the exact names from your report. Do not infer a list from what is commonly tested. Bring one verified organism–antibiotic example to your rehearsal."
+        },
+        {
+          "question": "How would you handle an unexpected result?",
+          "answer": "I would preserve the original record, check the method and quality-control information, and discuss the result with the supervisor. I would follow the approved procedure for any investigation or repeat, rather than change a result to fit an expectation."
+        }
+      ],
+      "honestyNote": "Do not claim clinical reporting authority, a specific resistance mechanism, or experience with a particular standards edition unless you can substantiate it."
+    },
+    {
+      "id": "water",
+      "title": "Microbial water quality assessment",
+      "tag": "Academic project · MPN & plate count",
+      "summary": "Connect a test method to what the result can and cannot tell you.",
+      "answer": "My academic work included microbial water quality assessment using MPN and plate count methods, followed by an evaluation report. I would explain the purpose of each method, the observations I recorded, and how I presented the results. Before interpreting a result, I would establish the sample type, method, units, and applicable requirement. I would be careful not to turn an indicator result into a claim that a specific pathogen was detected, or claim that a single test proves overall water safety.",
+      "followUps": [
+        {
+          "question": "Why did you use two methods?",
+          "answer": "Explain the aims stated in your project and what each method measured. Describe the methods as complementary only if that matches the actual study design. Their outputs should not be treated as interchangeable counts."
+        },
+        {
+          "question": "What limit did you compare against?",
+          "answer": "Identify the water category and the exact requirement used in your report. If you do not remember the reference or units, say you would check them. Limits vary with the intended use and jurisdiction."
+        }
+      ],
+      "honestyNote": "Verify the sample source, target organisms, MPN setup, units, and reported results. Do not add drinking-water certification or routine industrial testing experience."
+    },
+    {
+      "id": "soil",
+      "title": "Isolation of soil microorganisms",
+      "tag": "Academic project · Culture & identification",
+      "summary": "A straightforward way to show your laboratory foundations.",
+      "answer": "I isolated and studied soil microorganisms using serial dilution, spread and streak plating, and biochemical tests including catalase, coagulase, and oxidase. I would describe why each step was used in the actual project and how the observations contributed to identification. I would explain which isolates received which tests, rather than imply that every test was applied to every organism. My answer would separate an observed test result from a final identification and acknowledge any limits of the methods used.",
+      "followUps": [
+        {
+          "question": "How did you decide which colony to investigate?",
+          "answer": "Describe the selection criteria from your own work, including colony features or the project protocol if applicable. Do not invent a screening strategy. Explain how you kept the chosen isolate traceable."
+        },
+        {
+          "question": "Could biochemical tests alone confirm any species?",
+          "answer": "Identification depends on the organism, method, and required level of confidence. I would report the level of identification supported by the tests, and seek an appropriate validated confirmation method where needed."
+        }
+      ],
+      "honestyNote": "Do not imply molecular identification, sequencing, or a novel isolate. Add actual organisms and observations only from your records."
+    },
+    {
+      "id": "vitaminc",
+      "title": "Comparative vitamin C analysis in fruits",
+      "tag": "Academic project · Analytical thinking",
+      "summary": "Use this to discuss comparison, consistency, and limitations.",
+      "answer": "My project compared vitamin C in fruits listed in my study, including amla, grapefruit, guava, sapodilla, and papaya. I would explain the analytical method used, how samples were prepared, and how the comparisons were recorded. I would then state the actual findings and one limitation from the report. This is a useful example of planning a comparison and communicating results, but I would not describe it as a microbiological test or generalize the findings to every sample of those fruits.",
+      "followUps": [
+        {
+          "question": "Which fruit had the highest vitamin C?",
+          "answer": "Answer from your report and specify that this was the result for the samples tested. Do not substitute a general nutrition fact for your own experimental finding."
+        },
+        {
+          "question": "What could affect the comparison?",
+          "answer": "Select factors relevant to your method and records, such as sample storage, ripeness, preparation, or measurement variability. Explain how a factor might affect the interpretation, without claiming you controlled it if you did not."
+        }
+      ],
+      "honestyNote": "The CV does not state the analytical method, replicates, or numerical results. Check the project report before adding any of these."
+    },
+    {
+      "id": "bitm",
+      "title": "Explaining science at BITM's Biotech Lab",
+      "tag": "Internship · Communication",
+      "summary": "A distinctive example for teamwork and communication questions.",
+      "answer": "During my research internship at BITM's Biotech Lab, I conducted hands-on biotechnology demonstrations and basic microbiology procedures for students and visitors. For a communication question, I would choose one demonstration I remember well, explain who the audience was, and describe how I made the idea understandable. I would end with something I directly observed about the interaction. This experience helps me discuss clear explanations and responsible communication without claiming an industrial or independent research role.",
+      "followUps": [
+        {
+          "question": "How would you explain a technical idea to a beginner?",
+          "answer": "I would start with the purpose, use one simple comparison, explain the essential steps, and check understanding with a question. I would use a real demonstration from BITM to show how I applied that approach."
+        },
+        {
+          "question": "What did the internship teach you?",
+          "answer": "Choose one personal learning point you can support with a specific example. A small, concrete example of adapting an explanation is stronger than a broad claim that you mastered all biotechnology techniques."
+        }
+      ],
+      "honestyNote": "Choose a real demonstration and a real observation. Do not invent audience sizes, feedback scores, dates, or supervisory responsibilities."
+    }
+  ],
+  "hr": [
+    {
+      "question": "Tell me about yourself.",
+      "answer": "I'm a Microbiology postgraduate from Sister Nivedita University, with academic experience in food and water microbiology, AST, and microbial isolation. My internships at AIIHPH and BITM gave me exposure to food-safety research and communicating science. I also have foundational clinical research training. I'm now looking for an entry-level role where I can develop reliable practical skills, follow procedures carefully, and contribute to the team.",
+      "tip": "Aim for 45–60 seconds. End with one sentence connecting your background to this vacancy."
+    },
+    {
+      "question": "Why do you want this role?",
+      "answer": "The work described in this vacancy connects with my interest in microbiology and careful scientific work. My academic projects give me a foundation in culture methods, testing, and documentation. I would like to build that foundation in a professional setting, learn your procedures, and become dependable in the responsibilities assigned to a fresher.",
+      "tip": "Replace the opening with two actual duties from the job description. Generic enthusiasm is less persuasive than a clear connection."
+    },
+    {
+      "question": "Why should we hire you as a fresher?",
+      "answer": "I bring relevant academic training, project experience, and a willingness to learn your systems carefully. I can explain the work listed on my CV and I am comfortable asking when something needs clarification. I would not claim to know your laboratory already, but I would bring preparation, honest reporting, and consistent effort to the role.",
+      "tip": "Support one strength with a real project or internship example. Avoid promising zero mistakes."
+    },
+    {
+      "question": "What is your strongest skill?",
+      "answer": "One strength I can build on is explaining scientific work clearly. At BITM's Biotech Lab, I conducted demonstrations for students and visitors. I would use one specific example to show how I made an idea understandable. In a laboratory team, I would apply the same care to communicating observations and asking clear questions.",
+      "tip": "Use a true example you remember. You can choose another strength if you have stronger evidence for it."
+    },
+    {
+      "question": "What is one area you need to improve?",
+      "answer": "As a fresher, I need to build experience with a company's validated procedures and professional quality systems. My academic exposure gives me a starting point, but I know it does not replace role-specific training. I would improve by studying the assigned procedures, observing trained colleagues, and completing supervised practice before working independently.",
+      "tip": "Choose a genuine development area and show a practical learning plan. Do not disguise a strength as a weakness."
+    },
+    {
+      "question": "Tell me about a mistake or a setback.",
+      "answer": "Choose one real, manageable example from your studies or internship. Explain what happened, what you personally did to address it, and what you changed afterward. If it involved laboratory data, be clear that you preserved the original record and worked with the supervisor. Do not invent a contamination incident just because it sounds relevant.",
+      "tip": "Use Situation → Task → Action → Result → Learning. A modest real story is enough."
+    },
+    {
+      "question": "How do you handle pressure or competing tasks?",
+      "answer": "I would first clarify the priorities and any safety or time-sensitive requirements with my supervisor. I would plan the work, keep records as required, and communicate early if a deadline or workload became unrealistic. I would not skip a required check to look faster. I can support this with a real example from preparing academic work or demonstrations.",
+      "tip": "The example must be yours. Explain a decision you made, rather than simply saying you work well under pressure."
+    },
+    {
+      "question": "What if you do not know a technical answer?",
+      "answer": "I would say what I understand, identify the part I am unsure of, and explain how I would verify it using the applicable procedure, reference, or supervisor. For example: 'I understand the principle, but I would check the method before giving an exact acceptance limit.' I would rather be precise about a gap than give a confident guess.",
+      "tip": "Pause before answering. A calm, bounded answer can demonstrate good judgment."
+    },
+    {
+      "question": "Are you comfortable with shifts or relocation?",
+      "answer": "Give your actual availability and boundaries. You can say: 'I would like to understand the shift pattern, location, training arrangements, and transport requirements before confirming. My current availability is…' If you are flexible, say so honestly; if you have a constraint, state it clearly and professionally.",
+      "tip": "Do not promise a schedule or move you cannot accept. Agreeing without understanding the details creates avoidable problems."
+    },
+    {
+      "question": "What are your salary expectations?",
+      "answer": "As a fresher, I am interested in a role with relevant responsibilities and structured learning. Could you share the budgeted range and the full compensation structure for this position? I would consider the location, shift requirements, benefits, and growth opportunities alongside the fixed pay.",
+      "tip": "Prepare your own acceptable range before the interview. This site does not invent salary benchmarks."
+    },
+    {
+      "question": "Where do you see yourself in a few years?",
+      "answer": "I would like to become a dependable professional in the area I join, with strong fundamentals and the ability to perform my responsibilities accurately. Initially I want to learn the procedures and expectations thoroughly. Over time, I would like to handle more responsibility and contribute to improvements as my competence grows.",
+      "tip": "Keep the answer connected to the role. You do not need a dramatic title or a rigid five-year promise."
+    },
+    {
+      "question": "Do you have any questions for us?",
+      "answer": "What would the first three months look like for a fresher in this team? How are training and competency assessed? What are the most important responsibilities for this role? What are the next steps in the selection process?",
+      "tip": "Choose two questions that have not already been answered. Ask about shifts and location if they affect your decision."
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Find your starting point",
+      "description": "25 min · Make the first step small.",
+      "category": "Foundations",
+      "task": "Choose one target role. Read its role guide, rehearse your introduction once, then answer five foundation questions without notes. Mark the ones that need another look.",
+      "questionIds": []
+    },
+    {
+      "day": 2,
+      "title": "Build the microbiology basics",
+      "description": "25 min · Explain before you memorize.",
+      "category": "Foundations",
+      "task": "Review five basic questions on organisms, staining, growth, and asepsis. For each, say a two-sentence answer aloud and write down one common confusion.",
+      "questionIds": []
+    },
+    {
+      "day": 3,
+      "title": "Own your culture methods",
+      "description": "25 min · Turn methods into clear reasoning.",
+      "category": "Lab methods",
+      "task": "Review culture, dilution, plating, and controls. Rehearse the soil-isolation project. Be able to explain the purpose of each step you actually performed.",
+      "questionIds": []
+    },
+    {
+      "day": 4,
+      "title": "Tell your strongest project story",
+      "description": "25 min · Evidence makes confidence easier.",
+      "category": "Food & water",
+      "task": "Check your sweets project report. Make a five-line note: aim, your contribution, method, actual finding, limitation. Give a 90-second explanation and answer two follow-ups.",
+      "questionIds": []
+    },
+    {
+      "day": 5,
+      "title": "Interpret tests carefully",
+      "description": "25 min · Know what a result means.",
+      "category": "Lab methods",
+      "task": "Review AST and biochemical testing. Check the organisms, antibiotics, and interpretation reference in your own AST report. Practice explaining one result without overclaiming.",
+      "questionIds": []
+    },
+    {
+      "day": 6,
+      "title": "Learn the quality mindset",
+      "description": "25 min · Accuracy is a professional skill.",
+      "category": "Pharma QC",
+      "task": "Study documentation, deviations, controls, and unexpected results. Practice saying what you would do if a result did not meet the requirement. Distinguish academic exposure from GMP work experience.",
+      "questionIds": []
+    },
+    {
+      "day": 7,
+      "title": "Your first short mock",
+      "description": "25 min · A rehearsal, not a verdict.",
+      "category": "HR & communication",
+      "task": "Run a five-question mock. Answer aloud before revealing the model answer. Note one thing you explained well and two topics to revisit. Take a short break afterward.",
+      "questionIds": []
+    },
+    {
+      "day": 8,
+      "title": "Go deeper into your chosen role",
+      "description": "25 min · Tailor the next layer.",
+      "category": "Role focus",
+      "task": "Read a real job description. Select five matching questions from the bank. Connect two of the duties to genuine CV evidence and note one skill you would need training in.",
+      "questionIds": []
+    },
+    {
+      "day": 9,
+      "title": "Food, water, and sensible conclusions",
+      "description": "25 min · Be precise about the sample.",
+      "category": "Food & water",
+      "task": "Revisit MPN, plate counts, indicators, and food contamination. Rehearse your water project and one limitation. Check the sample type and units before quoting a requirement.",
+      "questionIds": []
+    },
+    {
+      "day": 10,
+      "title": "Research and clinical foundations",
+      "description": "25 min · Keep your training current.",
+      "category": "Clinical research",
+      "task": "Choose PCR and gels for a research role, or consent, trial roles, and current GCP guidance for a clinical role. Explain your actual training level. Flag concepts you learned in an older framework for an update.",
+      "questionIds": []
+    },
+    {
+      "day": 11,
+      "title": "Answer the human questions",
+      "description": "25 min · You are allowed to sound like yourself.",
+      "category": "HR & communication",
+      "task": "Rehearse why this role, a strength, a learning area, and one real setback. Use a specific example for each claim. Decide your honest availability, location, and shift preferences.",
+      "questionIds": []
+    },
+    {
+      "day": 12,
+      "title": "Research the company with care",
+      "description": "25 min · Read the evidence, not the hype.",
+      "category": "Company research",
+      "task": "Open a company card and its official careers page. Read any available interview accounts with their caveats. Prepare three role-relevant topics and two questions for the interviewer; do not treat anecdotes as a guaranteed question list.",
+      "questionIds": []
+    },
+    {
+      "day": 13,
+      "title": "Bring it together",
+      "description": "30 min · Practice recovering calmly.",
+      "category": "Mock interview",
+      "task": "Run a longer mock for your target role. Include your introduction and a project story. Self-review clarity, accuracy, and honesty. Revisit only the three most important gaps afterward.",
+      "questionIds": []
+    },
+    {
+      "day": 14,
+      "title": "Arrive ready",
+      "description": "20 min · Light revision, practical preparation.",
+      "category": "Interview day",
+      "task": "Use the interview checklist, reread your verified project notes, and rehearse a short introduction. Check the invitation and travel or video setup. End the session early enough to rest.",
+      "questionIds": []
+    }
+  ],
+  "checklist": [
+    { "id": "vacancy", "text": "Reread the vacancy and match three duties to genuine CV evidence." },
+    { "id": "company", "text": "Check the official company page, role location, and interview invitation." },
+    { "id": "intro", "text": "Rehearse a 45–60 second introduction and why this particular role interests you." },
+    { "id": "projects", "text": "Verify two project stories against your reports: aim, contribution, method, result, and limitation." },
+    { "id": "fundamentals", "text": "Review saved questions and the topics you found difficult in your last mock." },
+    { "id": "documents", "text": "Keep your current CV, academic records, certificates, and requested documents ready." },
+    { "id": "logistics", "text": "Confirm the time, route or meeting link, contact person, and any access requirements." },
+    { "id": "setup", "text": "For a video call, test audio, camera, internet, charging, lighting, and a quiet space." },
+    { "id": "availability", "text": "Know your honest joining availability, shift preferences, and relocation constraints." },
+    { "id": "questions", "text": "Prepare two questions about training, responsibilities, or the selection process." },
+    { "id": "pause", "text": "Keep water nearby, take a breath, and allow yourself a moment before answering." },
+    { "id": "after", "text": "Afterward, record the actual questions and one learning point while they are fresh." }
+  ],
+  "notes": [
+    {
+      "title": "A little reminder, just for you",
+      "text": "Srijita, I believe in the person doing all this preparation. You do not need a perfect answer to every question to be someone worth choosing. One small step today is enough. I'm cheering for you. ♡"
+    },
+    {
+      "title": "Before you press join",
+      "text": "Take a breath. Relax your shoulders. Speak at your own pace. The interview is a chance for them to meet you, and I hope you let them see the thoughtful person I know. ♡"
+    },
+    {
+      "title": "For the difficult days",
+      "text": "A difficult interview is one conversation, not a definition of you. We can learn from it, take a break, and try again. You are special to me on the easy days and on these days too. ♡"
+    },
+    {
+      "title": "A tiny celebration",
+      "text": "You showed up for yourself today. That counts. I hope you pause for a second and feel proud of the effort you put in. I am. ♡"
+    },
+    {
+      "title": "No score needed",
+      "text": "This little corner has no marks, no timer, and no expectations. Just a reminder that you matter to me, well beyond any offer letter. ♡"
+    },
+    {
+      "title": "You found your quiet corner",
+      "text": "I made this to make the next step feel a little less lonely. Every page is a small way of saying: I am in your corner, Srijita. Keep going at your pace. ♡"
+    }
+  ],
+  "roleGuides": [
+    {
+      "id": "pharma",
+      "name": "Pharma QC",
+      "description": "For trainee or junior microbiology quality-control roles. Read each vacancy carefully; some require specific qualifications or experience.",
+      "focus": ["Aseptic practice and contamination control", "Microbiological testing principles and controls", "GMP, documentation, and data integrity", "Deviations and unexpected results"],
+      "searchTerms": ["trainee microbiologist", "QC microbiology fresher", "microbiology quality control trainee"],
+      "gap": "Your projects are relevant foundations, but the CV does not establish industrial GMP experience, validated test execution, or independent batch-release responsibility.",
+      "firstWeekTask": "Read one trainee QC vacancy. Connect its duties to your AST, culture, or water project; identify the procedures and quality-system training you would need."
+    },
+    {
+      "id": "food",
+      "name": "Food & water",
+      "description": "For entry-level food, environmental, or water testing roles where the advertised qualification fits your background.",
+      "focus": ["Sample traceability and contamination prevention", "Indicators, pathogens, and identification limits", "MPN and plate-count interpretation", "Method-specific reporting and quality controls"],
+      "searchTerms": ["food microbiology trainee", "microbiology laboratory analyst fresher", "water testing microbiologist trainee"],
+      "gap": "The sweets and water projects are strong discussion points. Do not imply accredited-laboratory employment or knowledge of every regulatory method.",
+      "firstWeekTask": "Prepare verified 90-second stories for the sweets and water projects, including one real result and one limitation for each."
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "description": "For research assistant, project trainee, or laboratory support vacancies with matching eligibility and skill requirements.",
+      "focus": ["Experimental aim, controls, and limitations", "Culture, identification, and reproducibility", "PCR and gel electrophoresis foundations", "Clear records and scientific communication"],
+      "searchTerms": ["microbiology research assistant fresher", "biotechnology project trainee", "microbiology laboratory trainee"],
+      "gap": "Describe PCR, gels, and DNA handling at the level you actually practiced. The CV does not establish independent assay development or advanced molecular experience.",
+      "firstWeekTask": "Choose one project and explain how its design answers the research question. List the controls you actually used and one justified next experiment."
+    },
+    {
+      "id": "clinical",
+      "name": "Clinical research",
+      "description": "For suitable trainee clinical research, trial assistant, or study-support openings. Eligibility differs by employer and position.",
+      "focus": ["Participant rights, safety, and informed consent", "Sponsor, investigator, and monitor responsibilities", "Trial phases and essential documentation", "Current applicable GCP guidance and protocol compliance"],
+      "searchTerms": ["clinical trial assistant fresher", "clinical research trainee life sciences", "clinical research coordinator trainee"],
+      "gap": "Your clinical research course is training, not evidence of managing trial participants or independently performing trial duties. Update older course terminology using current guidance.",
+      "firstWeekTask": "Explain the consent process and trial roles in plain language. Compare your course notes with the current guidance linked in the source library."
+    }
+  ]
+}

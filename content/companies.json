@@ -1,0 +1,467 @@
+[
+  {
+    "id": "sun-pharma",
+    "name": "Sun Pharma",
+    "initials": "SP",
+    "color": "#ce703c",
+    "sector": "Pharmaceutical quality",
+    "roles": [
+      "Pharma QC"
+    ],
+    "locationNote": "India; eligibility and plant location vary by vacancy.",
+    "overview": "Explore microbiology trainee, apprentice and QC opportunities through the official careers portal. Company role descriptions provide useful preparation context, but an experienced vacancy is not a fresher opening.",
+    "officialUrl": "https://sunpharma.com/careers/",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Aseptic technique",
+      "Environmental monitoring",
+      "Water microbiology",
+      "Good documentation",
+      "Deviation escalation"
+    ],
+    "practiceLabel": "Suggested role preparation · not verified Sun Pharma interview questions",
+    "practiceSourceUrls": [
+      "https://careers.sunpharma.com/job/Manager-Microbiology/60538144/",
+      "https://www.hhs.gov/guidance/document/data-integrity-and-compliance-drug-cgmp-questions-and-answers-guidance-industry"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "What would you do if you recorded the wrong observation?",
+        "answer": "Preserve the original entry and make a traceable correction under the approved procedure. Record the reason when required, date and identify the correction, and escalate any impact on results."
+      },
+      {
+        "question": "Why is environmental monitoring useful?",
+        "answer": "It detects and trends microbial or particulate contamination risks. Results support investigation and control of the manufacturing environment; a satisfactory sample does not prove every product is sterile."
+      },
+      {
+        "question": "How does your academic experience connect to QC?",
+        "answer": "My culture, biochemical-testing and water-analysis projects developed careful technique and documentation. I would bring those habits to QC while learning the site's approved methods and GMP procedures under supervision."
+      }
+    ],
+    "reports": [],
+    "evidenceNote": "No independently readable, role-specific Indian fresher microbiology interview account was verified in this research. Preparation topics are inferred from official role context, not attributed to an interviewer. The referenced manager role requires extensive experience and is background reading only."
+  },
+  {
+    "id": "dr-reddys",
+    "name": "Dr. Reddy’s",
+    "initials": "DR",
+    "color": "#7956a5",
+    "sector": "Pharmaceutical quality",
+    "roles": [
+      "Pharma QC"
+    ],
+    "locationNote": "India; the reviewed Hyderabad environmental-monitoring vacancy is expired and required two years of experience.",
+    "overview": "An official microbiology job description emphasizes environmental and utility monitoring, accurate records, trend review and escalation. Use it to understand the work, then search separately for an eligible trainee or early-career vacancy.",
+    "officialUrl": "https://careers.drreddys.com/jobs",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Viable vs non-viable monitoring",
+      "Sampling plans",
+      "Alert and action levels",
+      "Trend review",
+      "cGMP and SOPs"
+    ],
+    "practiceLabel": "Suggested role preparation · not verified Dr. Reddy’s interview questions",
+    "practiceSourceUrls": [
+      "https://careers.drreddys.com/job/quality-control-associate-areas-utilities-and-monitoring-in-hyderabad-jid-4530"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "How do viable and non-viable monitoring differ?",
+        "answer": "Viable monitoring assesses microorganisms recovered under the chosen culture conditions. Non-viable monitoring counts airborne particles by size. Both inform contamination control, but they measure different things."
+      },
+      {
+        "question": "What would you do with an unexpected monitoring result?",
+        "answer": "Document and notify the responsible supervisor, preserve the data and follow the excursion procedure. Review relevant sampling and environmental context with the team; do not dismiss the result or retest until acceptable."
+      },
+      {
+        "question": "Why review a trend when individual results pass?",
+        "answer": "A sustained change may indicate deteriorating control before a limit is exceeded. Evaluate comparable locations, methods and operating conditions using the approved trend-review procedure."
+      }
+    ],
+    "reports": [],
+    "evidenceNote": "No verified fresher microbiology interview account was found. The expired official role is used only as a skills reference; it is not presented as an available job or a source of interview questions."
+  },
+  {
+    "id": "cipla",
+    "name": "Cipla",
+    "initials": "CI",
+    "color": "#3873a1",
+    "sector": "Pharmaceutical quality",
+    "roles": [
+      "Pharma QC"
+    ],
+    "locationNote": "India; the reviewed Rangpo Junior Team Member role specifies prior experience. Always read eligibility rather than relying on the word ‘junior’.",
+    "overview": "The official microbiology role describes testing allocated samples, checking results against methods and specifications, and reporting errors or abnormal observations. Prepare to explain how accuracy and timely communication work together.",
+    "officialUrl": "https://careers.cipla.com/",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Media and controls",
+      "Reproducible results",
+      "Reporting abnormalities",
+      "Sample traceability",
+      "Clear English communication"
+    ],
+    "practiceLabel": "Suggested role preparation · not verified Cipla interview questions",
+    "practiceSourceUrls": [
+      "https://careers.cipla.com/job/Rangpo-Team-Member-QC-Sikk/1365544866/",
+      "https://www.fda.gov/food/laboratory-methods-food/bacteriological-analytical-manual-bam"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "Why should an analyst report an abnormal observation promptly?",
+        "answer": "It allows the responsible team to assess data validity, sample impact and next steps before results are used. I would record what I observed, avoid assumptions and follow the escalation procedure."
+      },
+      {
+        "question": "What makes two test results meaningfully comparable?",
+        "answer": "Comparable sampling, methods, units, controls and relevant test conditions matter. A numerical difference alone does not establish a problem; first assess method performance and context."
+      },
+      {
+        "question": "What is the purpose of growth media?",
+        "answer": "Media provide conditions and nutrients for recovery or differentiation of microorganisms. Selection depends on the target and method. Suitability, sterility and performance controls are essential before interpreting sample results."
+      }
+    ],
+    "reports": [],
+    "evidenceNote": "No sufficiently readable Indian fresher microbiology account was verified. Search-index snippets and generic question-bank pages were excluded from company-asked claims. The reviewed official junior role requires 1–5 years for analysts."
+  },
+  {
+    "id": "biocon",
+    "name": "Biocon",
+    "initials": "BI",
+    "color": "#497c59",
+    "sector": "Biopharmaceuticals",
+    "roles": [
+      "Pharma QC",
+      "Research"
+    ],
+    "locationNote": "India; check each internship, apprentice or employee vacancy for eligibility and location.",
+    "overview": "Biocon’s official careers material explicitly welcomes microbiology graduates and postgraduates for internships. Its quality roles connect microbiological assays and contamination monitoring with careful records and safety.",
+    "officialUrl": "https://www.biocon.com/careers/functions/",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Contamination control",
+      "Aseptic behavior",
+      "Microbiological assays",
+      "Good documentation",
+      "Internship learning goals"
+    ],
+    "practiceLabel": "Suggested role preparation · not verified Biocon interview questions",
+    "practiceSourceUrls": [
+      "https://www.biocon.com/careers/functions/",
+      "https://careers.biocon.com/job/EXECUTIVE/23795-en_US/"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "Why apply for an internship after your M.Sc.?",
+        "answer": "I want to translate my academic microbiology skills into reliable work in a regulated setting. I am looking for supervised experience in approved methods, documentation and quality systems, with clear learning responsibilities."
+      },
+      {
+        "question": "What would you do before using an unfamiliar instrument?",
+        "answer": "Confirm training and authorization, read the approved procedure, and check its status and required pre-use checks with a qualified colleague. I would not operate it independently before qualification."
+      },
+      {
+        "question": "What can you contribute as a fresher?",
+        "answer": "I bring a strong microbiology foundation, experience explaining laboratory concepts at BITM, and careful work from food and water projects. I am ready to learn site procedures and accept feedback."
+      }
+    ],
+    "reports": [],
+    "evidenceNote": "No verified Indian fresher microbiology interview account was located. Official internship information is a possible entry route, not a guarantee that an internship or job is currently available. The reviewed QC executive example lists six months of experience."
+  },
+  {
+    "id": "syngene",
+    "name": "Syngene",
+    "initials": "SY",
+    "color": "#617f8b",
+    "sector": "Research & development services",
+    "roles": [
+      "Research",
+      "Pharma QC"
+    ],
+    "locationNote": "Explore official student, master’s and trainee categories; report below concerns a senior US role.",
+    "overview": "Syngene’s careers portal separates student and trainee opportunities from other roles. Prepare to explain your project decisions, data quality and how you would learn unfamiliar methods.",
+    "officialUrl": "https://careers.syngeneintl.com/viewalljobs/",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Project rationale",
+      "Controls and troubleshooting",
+      "Data interpretation",
+      "Scientific integrity",
+      "Moving from academia to industry"
+    ],
+    "practiceLabel": "Suggested role preparation · distinguish from the reported question below",
+    "practiceSourceUrls": [
+      "https://careers.syngeneintl.com/content/How-we-hire/?locale=en_GB",
+      "https://careers.syngeneintl.com/viewalljobs/"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "Why move from academic microbiology into industry?",
+        "answer": "I enjoy applying microbiology to practical quality and research questions. My projects gave me a foundation in careful testing; I now want to develop that foundation through structured methods, teamwork and reproducible results."
+      },
+      {
+        "question": "How would you explain a project without remembering every number?",
+        "answer": "Explain the aim, your actual contribution, method rationale and documented conclusions. State clearly which numerical detail you would need to verify. Do not invent a result to complete the story."
+      },
+      {
+        "question": "How would you respond when a control fails?",
+        "answer": "Do not interpret the affected sample result as valid. Document the failure, notify the responsible scientist and follow the investigation procedure before further testing or reporting."
+      }
+    ],
+    "reports": [
+      {
+        "title": "Release judgment within a stated incubation window",
+        "url": "https://www.glassdoor.co.in/Interview/Syngene-International-Limited-Interview-Questions-E520244.htm",
+        "platform": "Glassdoor · anonymous candidate",
+        "date": "7 July 2026 (report date)",
+        "role": "Principal Scientist – Microbiology · Baltimore, US · experienced role",
+        "summary": "A candidate described several technical conversations and a scenario about a client requesting release on day 5 of a stated 5–7 day incubation window with no growth.",
+        "reportedTopics": [
+          "Release pressure",
+          "Approved incubation and release criteria",
+          "Technical judgment"
+        ],
+        "questions": [
+          {
+            "question": "A client requests release on day 5 of a stated 5–7 day incubation window with no growth. How would you decide?",
+            "answer": "Verify the exact approved method, specification, protocol, release criteria and decision authority. Do not assume that day 5 is sufficient or that day 7 is universally required. Escalate pressure through the responsible quality team and do not bypass an approved endpoint."
+          }
+        ],
+        "caveat": "One anonymous account from a senior US position. It does not describe an Indian fresher interview. Question is paraphrased; answer is an author-written practice response, not the candidate’s answer or company policy."
+      }
+    ],
+    "evidenceNote": "One readable microbiology account is included with its seniority and geography. No verified Indian fresher microbiology account was found. Interview structure and questions vary by team."
+  },
+  {
+    "id": "eurofins",
+    "name": "Eurofins",
+    "initials": "EU",
+    "color": "#3c679e",
+    "sector": "Food, environmental & pharmaceutical testing",
+    "roles": [
+      "Food & water",
+      "Pharma QC",
+      "Research"
+    ],
+    "locationNote": "Two overseas reports and one Ireland-focused forum discussion with an unconfirmed site/location. Check India eligibility separately.",
+    "overview": "Official laboratory roles span food and water analysis and pharmaceutical microbiology. Connect your sweets and water projects to sample traceability, method selection, controls and clear reporting.",
+    "officialUrl": "https://careers.eurofins.com/",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Food and water testing",
+      "Good documentation",
+      "GMP awareness",
+      "Method controls",
+      "Teamwork"
+    ],
+    "practiceLabel": "Suggested role preparation · reported topics are separately attributed below",
+    "practiceSourceUrls": [
+      "https://jobs.smartrecruiters.com/Eurofins/744000119067924-research-scientist-microbiology",
+      "https://jobs.smartrecruiters.com/Eurofins/744000152171679-senior-microbiologist",
+      "https://www.fda.gov/food/laboratory-methods-food/bam-chapter-12-staphylococcus-aureus"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "How would you discuss your sweets project?",
+        "answer": "Explain why Staphylococcus was investigated, how samples and isolates were tracked, which identification steps you actually performed, and what the documented results support. Avoid equating a presumptive isolate with confirmed toxin production."
+      },
+      {
+        "question": "What do positive and negative controls add to testing?",
+        "answer": "They help assess whether the system can detect the expected response and whether contamination or nonspecific responses may affect interpretation. Their exact design and acceptance criteria come from the approved method."
+      },
+      {
+        "question": "How would you balance turnaround time and quality?",
+        "answer": "Plan work against approved method timelines, communicate delays early and preserve traceability. I would never shorten required steps or omit controls just to issue a result sooner."
+      }
+    ],
+    "reports": [
+      {
+        "title": "Micro role account emphasizes documentation",
+        "url": "https://www.reddit.com/r/PharmaEire/comments/1uw9zgt/eurofins_interview/",
+        "platform": "Reddit · r/PharmaEire",
+        "date": "14 July 2026 (discussion date)",
+        "role": "Microbiology role · Ireland forum · site not specified by this commenter",
+        "summary": "In a discussion started by a master’s graduate with internship experience, a commenter said their own microbiology interview focused on GMP and especially documentation practices. They felt their lack of practical GMP experience affected their outcome.",
+        "reportedTopics": [
+          "GMP",
+          "Good documentation practices",
+          "ALCOA"
+        ],
+        "questions": [
+          {
+            "question": "What does ALCOA mean in a laboratory record?",
+            "answer": "Attributable, legible, contemporaneous, original or a true copy, and accurate. Give an example: record an observation when it happens, identify who made it, and preserve its original context and any traceable correction."
+          }
+        ],
+        "caveat": "Unverified first-person comment; employer and location cannot be independently confirmed. Topic-based practice question and answer are written for this guide, not quoted as an exact interview exchange. GDP here means good documentation practices."
+      },
+      {
+        "title": "Water testing in a Quebec microbiologist interview",
+        "url": "https://api.glassdoor.com/Interview/Eurofins-Microbiologist-Interview-Questions-EI_IE25113.0%2C8_KO9%2C23.htm",
+        "platform": "Glassdoor · anonymous candidate",
+        "date": "23 February 2025 (report date)",
+        "role": "Microbiologist · Quebec, Canada",
+        "summary": "A report described a screening call, technical discussion and French-language assessment. Its listed technical topic concerned water testing and coliform organisms.",
+        "reportedTopics": [
+          "Water quality testing",
+          "Coliforms",
+          "Language assessment"
+        ],
+        "questions": [
+          {
+            "question": "What is your experience with water testing and coliforms?",
+            "answer": "My academic work included MPN and plate-count methods for water quality. Coliforms are indicators used in defined testing frameworks; I would explain the method and controls I used and interpret results against the applicable standard."
+          }
+        ],
+        "caveat": "Anonymous overseas account; do not generalize the language requirement to India. Question paraphrased; suggested answer uses resume context and must be checked against her actual project record."
+      },
+      {
+        "title": "Team problem-solving in a UK microbiologist interview",
+        "url": "https://api.glassdoor.com/Interview/Eurofins-Microbiologist-Interview-Questions-EI_IE25113.0%2C8_KO9%2C23.htm",
+        "platform": "Glassdoor · anonymous employee",
+        "date": "30 July 2025 (posted); interview stated as April 2023",
+        "role": "Microbiologist · Wolverhampton, UK",
+        "summary": "The reporter emphasized teamwork and problem-solving rather than a long list of technical questions.",
+        "reportedTopics": [
+          "Teamwork",
+          "Resolving a problem"
+        ],
+        "questions": [
+          {
+            "question": "How would you handle a problem within your team?",
+            "answer": "Clarify the issue calmly, listen to colleagues and agree on responsibilities. If quality or safety could be affected, escalate promptly. Use a real academic or internship example to show the outcome and what you learned."
+          }
+        ],
+        "caveat": "One anonymous account and an older overseas interview. It does not predict the technical depth of another laboratory. Question paraphrased; answer is original guidance."
+      }
+    ],
+    "evidenceNote": "Three readable role-related accounts are included: two overseas interviews and one Ireland-focused forum discussion with unconfirmed site/location. All are anecdotal; none establishes what an Indian fresher will be asked. Public pages may later require sign-in."
+  },
+  {
+    "id": "sgs",
+    "name": "SGS",
+    "initials": "SG",
+    "color": "#b17343",
+    "sector": "Testing, inspection & certification",
+    "roles": [
+      "Food & water",
+      "Pharma QC"
+    ],
+    "locationNote": "Search India vacancies through the official country portal; eligibility varies by role.",
+    "overview": "An official laboratory analyst description emphasizes approved test methods, QA/QC, traceable raw data and turnaround times. Prepare to explain aseptic technique and the care required for routine laboratory work.",
+    "officialUrl": "https://www.sgs.com/en-in/our-company/careers-at-sgs/job-opportunities",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Aseptic technique",
+      "Sample traceability",
+      "Raw data",
+      "Laboratory QA/QC",
+      "Routine precision"
+    ],
+    "practiceLabel": "Suggested role preparation · not verified SGS interview questions",
+    "practiceSourceUrls": [
+      "https://jobs.smartrecruiters.com/SGS/744000153189411-microbiology-laboratory-analyst"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "How can you prevent sample mix-ups?",
+        "answer": "Maintain unique identifiers through receipt, preparation, testing and reporting. Check labels and worksheets at each transfer, follow the lab’s sample-handling procedure and stop to resolve any identification discrepancy."
+      },
+      {
+        "question": "Why keep raw data when a final report exists?",
+        "answer": "Raw data allow reviewers to reconstruct what happened and assess whether the reported result is supported. A final number alone cannot show the full test history, calculations or relevant observations."
+      },
+      {
+        "question": "How will you stay careful during repetitive work?",
+        "answer": "Follow the approved sequence, use required checks and record work as it happens. If fatigue or workload threatens accuracy, communicate early instead of relying on memory or rushing."
+      }
+    ],
+    "reports": [],
+    "evidenceNote": "No directly readable role-specific microbiology interview account was verified. An index-only account was excluded. The official analyst job is experienced-role context, not a fresher opening."
+  },
+  {
+    "id": "iqvia",
+    "name": "IQVIA",
+    "initials": "IQ",
+    "color": "#587ca3",
+    "sector": "Clinical research & healthcare data",
+    "roles": [
+      "Clinical research"
+    ],
+    "locationNote": "India roles span multiple cities; eligibility varies. CRA reports below concern candidates with research experience and do not establish a direct fresher route.",
+    "overview": "Explore eligible clinical-trial support, assistant and data roles alongside trainee opportunities. Use her clinical-research training to explain consent, participant protection, documentation and role boundaries without claiming trial experience she does not have.",
+    "officialUrl": "https://jobs.iqvia.com/en/jobs",
+    "practiceQuestionIds": [],
+    "practiceTopics": [
+      "Informed consent",
+      "GCP",
+      "Essential records",
+      "STAR examples",
+      "Role boundaries",
+      "Prioritization"
+    ],
+    "practiceLabel": "Suggested role preparation · CRA reports are learning context, not fresher eligibility evidence",
+    "practiceSourceUrls": [
+      "https://jobs.iqvia.com/en/clinical-research",
+      "https://www.ema.europa.eu/en/documents/scientific-guideline/ich-e6r3-guideline-good-clinical-practice-step-5_en.pdf"
+    ],
+    "practiceQuestions": [
+      {
+        "question": "How does clinical-research training prepare you for a support role?",
+        "answer": "It introduced me to trial phases, consent, study roles and GCP. I can bring scientific communication and documentation habits, while learning the study’s procedures and systems. My training is not equivalent to conducting a clinical trial."
+      },
+      {
+        "question": "What is informed consent?",
+        "answer": "An ongoing process that supports a voluntary, informed choice. Authorized staff explain the study, risks and alternatives, allow questions and document consent before participation as required. A signature alone is not enough."
+      },
+      {
+        "question": "What if you see a discrepancy in a study record?",
+        "answer": "Protect confidentiality, document and notify the appropriate study-team member through the approved process. Do not guess, overwrite source data or resolve a clinical question outside your delegated responsibility."
+      }
+    ],
+    "reports": [
+      {
+        "title": "Motivation and behavioral questions for a CRA role",
+        "url": "https://www.reddit.com/r/clinicalresearch/comments/1av1dqj/iqvia_interview/",
+        "platform": "Reddit · r/clinicalresearch",
+        "date": "20 February 2024 (comment); interview stated as December 2023",
+        "role": "CRA · geography not confirmed",
+        "summary": "A commenter listed an introduction, reasons for choosing CRA work and IQVIA, understanding the job, and handling disagreement with a colleague.",
+        "reportedTopics": [
+          "Introduction",
+          "Why this role and company",
+          "CRA responsibilities",
+          "Disagreement at work"
+        ],
+        "questions": [
+          {
+            "question": "Describe a time you disagreed with a colleague.",
+            "answer": "Use a real STAR example: explain the shared task, the specific disagreement, how you listened and used evidence, and the outcome. A modest academic teamwork example is appropriate for a fresher; do not invent a workplace conflict."
+          }
+        ],
+        "caveat": "Anonymous first-person comment about a CRA interview, not an Indian fresher support-role report. Question paraphrased; answer is original guidance and requires her real example."
+      },
+      {
+        "title": "Consent, records and situational prompts in a one-way CRA interview",
+        "url": "https://www.reddit.com/r/clinicalresearch/comments/1vfqwyt/iqvia_cra_oneway_interview/",
+        "platform": "Reddit · r/clinicalresearch",
+        "date": "5 August 2026 (comments)",
+        "role": "CRA · commenters discuss prior research experience · geography not confirmed",
+        "summary": "Respondents described questions on consent, regulatory documents and situational problem-solving. Different commenters described different response formats, showing that one fixed process should not be assumed.",
+        "reportedTopics": [
+          "Consent process",
+          "Document purpose",
+          "Problem-solving scenarios",
+          "Research experience"
+        ],
+        "questions": [
+          {
+            "question": "What would you check before a participant starts study procedures?",
+            "answer": "The authorized study team must ensure the applicable approved consent process has been completed and documented before participation, and confirm required eligibility and protocol checks. As a support-role fresher, I would work within delegated duties and escalate uncertainties."
+          }
+        ],
+        "caveat": "Multiple unverified comments, not an official recruitment guide. This topic-based practice prompt is not claimed as exact wording. It does not establish the number of questions or interview attempts for another applicant."
+      }
+    ],
+    "evidenceNote": "Two readable discussion threads provide clinical-research interview context. They concern CRA applicants, often moving from other research roles. Do not confuse entry-level CRA titles with an assurance that fresh graduates are eligible."
+  }
+]

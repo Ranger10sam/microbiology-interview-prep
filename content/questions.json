@@ -1,0 +1,1807 @@
+[
+  {
+    "id": "q001",
+    "title": "How do Gram-positive and Gram-negative bacteria differ?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Gram-positive bacteria usually have a thick peptidoglycan wall. Gram-negative bacteria have thinner peptidoglycan and an outer membrane containing lipopolysaccharide. These envelope differences help explain staining and permeability, but Gram reaction alone does not identify a species.",
+    "keyPoints": [
+      "Thick versus thin peptidoglycan",
+      "Outer membrane in Gram-negative cells",
+      "Gram reaction is preliminary evidence"
+    ],
+    "pitfall": "Do not equate Gram-negative with always more dangerous.",
+    "followUp": "Why can an old Gram-positive culture appear Gram-variable?",
+    "sourceIds": [
+      "openstax-cells",
+      "openstax-stain"
+    ]
+  },
+  {
+    "id": "q002",
+    "title": "What is the principle of Gram staining?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "It differentiates cells by retention of the crystal violet–iodine complex during decolorization. Typical Gram-positive cells remain purple; decolorized Gram-negative cells take up the counterstain and appear pink. Smear thickness, culture condition and decolorization affect interpretation.",
+    "keyPoints": [
+      "Differential stain",
+      "Decolorization is critical",
+      "Include appropriate controls"
+    ],
+    "pitfall": "Do not identify an organism from colour alone.",
+    "followUp": "What would excessive decolorization do?",
+    "sourceIds": [
+      "openstax-stain"
+    ]
+  },
+  {
+    "id": "q003",
+    "title": "What are the four phases of a bacterial growth curve?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "In a typical closed batch culture, lag is adaptation, log is rapid division, stationary has little net increase in viable population, and decline has falling viability. The timing depends on the organism and environment; this model is not universal for every infection.",
+    "keyPoints": [
+      "Lag: adaptation",
+      "Log: rapid multiplication",
+      "Stationary then decline"
+    ],
+    "pitfall": "Lag does not mean cells are metabolically inactive.",
+    "followUp": "Which phase is often used for standardized physiological experiments?",
+    "sourceIds": [
+      "openstax-growth"
+    ]
+  },
+  {
+    "id": "q004",
+    "title": "What is the difference between sterilization and disinfection?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Sterilization is a validated process intended to eliminate viable microorganisms, including bacterial spores. Disinfection reduces or inactivates microorganisms on inanimate surfaces, with effectiveness depending on its level and conditions. Cleaning removes soil and helps either process work properly.",
+    "keyPoints": [
+      "Spores matter",
+      "Cleaning supports efficacy",
+      "Use a validated process"
+    ],
+    "pitfall": "Do not call routine surface disinfection sterilization.",
+    "followUp": "Why can organic material interfere with a disinfectant?",
+    "sourceIds": [
+      "cdc-disinfection"
+    ]
+  },
+  {
+    "id": "q005",
+    "title": "What is an endospore?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "An endospore is a dormant survival structure produced by certain bacteria, including members of Bacillus and Clostridium-related groups. Its resistance helps survival under adverse conditions. Sporulation is not reproduction: one cell forms one spore, which may later germinate.",
+    "keyPoints": [
+      "Dormant survival form",
+      "Not a reproductive increase",
+      "Resists adverse conditions"
+    ],
+    "pitfall": "Do not describe fungal spores and bacterial endospores as identical.",
+    "followUp": "Why are biological indicators useful in sterilization monitoring?",
+    "sourceIds": [
+      "openstax-cells"
+    ]
+  },
+  {
+    "id": "q006",
+    "title": "How do selective and differential media differ?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Selective media favour certain organisms while inhibiting others. Differential media reveal visible differences caused by biochemical activity. A medium can do both: MacConkey agar selects many Gram-negative enteric organisms and differentiates lactose fermentation.",
+    "keyPoints": [
+      "Selective: favours growth",
+      "Differential: distinguishes reactions",
+      "One medium can do both"
+    ],
+    "pitfall": "A typical colony on selective agar is not definitive identification.",
+    "followUp": "Is blood agar enriched, differential, or both?",
+    "sourceIds": [
+      "openstax-media"
+    ]
+  },
+  {
+    "id": "q007",
+    "title": "How are enriched media different from enrichment media?",
+    "category": "Foundations",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Enriched media contain added nutrients that support demanding organisms, such as blood agar. Enrichment is a cultivation approach, often using a broth and selected conditions, that increases the relative recovery of a target organism from a mixture. The terms describe different purposes.",
+    "keyPoints": [
+      "Enriched: added growth factors",
+      "Enrichment: improves target recovery",
+      "Select by analytical purpose"
+    ],
+    "pitfall": "Do not use the two words interchangeably.",
+    "followUp": "When might an enrichment step reduce the ability to quantify the original sample?",
+    "sourceIds": [
+      "openstax-media"
+    ]
+  },
+  {
+    "id": "q008",
+    "title": "What does CFU mean, and is one CFU always one cell?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A colony-forming unit is an operational estimate of viable units capable of forming colonies under the chosen conditions. A colony can arise from one cell or a cluster. CFU therefore differs from a direct total cell count.",
+    "keyPoints": [
+      "Culture-based viable estimate",
+      "Clusters may form one colony",
+      "Conditions affect recovery"
+    ],
+    "pitfall": "Do not report CFU as an exact total number of cells.",
+    "followUp": "Why can microscopy and plate counts disagree?",
+    "sourceIds": [
+      "openstax-growth"
+    ]
+  },
+  {
+    "id": "q009",
+    "title": "What are aerobes, anaerobes and facultative anaerobes?",
+    "category": "Foundations",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Obligate aerobes require oxygen; obligate anaerobes cannot grow in its presence under their required conditions. Facultative anaerobes can grow with or without oxygen and often grow better with it. Oxygen preference guides culture conditions and is not enough for identification.",
+    "keyPoints": [
+      "Oxygen requirements vary",
+      "Facultative means either condition",
+      "Choose suitable culture atmosphere"
+    ],
+    "pitfall": "Do not assume every organism grows in ambient air.",
+    "followUp": "How would inappropriate atmosphere affect a negative culture?",
+    "sourceIds": [
+      "openstax-oxygen"
+    ]
+  },
+  {
+    "id": "q010",
+    "title": "What is a biofilm, and why does it matter?",
+    "category": "Foundations",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A biofilm is a surface-associated microbial community within a self-produced matrix. It can persist in water systems or equipment and be harder to remove than free-living cells. Prevention combines system design, cleaning, control measures and monitoring.",
+    "keyPoints": [
+      "Community within a matrix",
+      "Can persist on surfaces",
+      "Control is more than testing"
+    ],
+    "pitfall": "Biofilm tolerance and inherited antibiotic resistance are different concepts.",
+    "followUp": "Why can a water sample miss a surface-associated biofilm?",
+    "sourceIds": [
+      "openstax-growth",
+      "eu-annex1"
+    ]
+  },
+  {
+    "id": "q011",
+    "title": "What is the difference between contamination, colonization and infection?",
+    "category": "Foundations",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "Contamination is unintended introduction or presence of microbes. Colonization is their establishment at a site without necessarily causing disease. Infection involves entry and multiplication in a host and may be symptomatic or asymptomatic. Sample context is essential for interpretation.",
+    "keyPoints": [
+      "Contamination: unintended presence",
+      "Colonization need not cause disease",
+      "Infection can be asymptomatic"
+    ],
+    "pitfall": "Do not diagnose infection from a single positive result in isolation.",
+    "followUp": "What sample information helps interpret a culture result?",
+    "sourceIds": [
+      "cdc-ecology",
+      "openstax-infection"
+    ]
+  },
+  {
+    "id": "q012",
+    "title": "What is the difference between an endotoxin and an exotoxin?",
+    "category": "Foundations",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Endotoxin refers to lipopolysaccharide-associated activity in Gram-negative outer membranes. Exotoxins are proteins made by particular bacteria and may have specific cellular targets. Sterility testing does not demonstrate the absence of endotoxin, and not all pyrogens are endotoxins.",
+    "keyPoints": [
+      "Endotoxin: Gram-negative envelope",
+      "Exotoxin: bacterial protein toxin",
+      "Sterile does not mean pyrogen-free"
+    ],
+    "pitfall": "Do not say all bacterial toxins are removed by sterilization.",
+    "followUp": "Why are endotoxin controls separate from viable-count controls?",
+    "sourceIds": [
+      "openstax-toxins",
+      "fda-endotoxin"
+    ]
+  },
+  {
+    "id": "q013",
+    "title": "How can bacteria become resistant to antibiotics?",
+    "category": "Foundations",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Resistance may be intrinsic or acquired through mutation or transfer of genetic material. Mechanisms include drug-inactivating enzymes, altered targets, reduced entry and efflux. Antibiotic exposure selects resistant variants; bacteria do not consciously adapt because they need to.",
+    "keyPoints": [
+      "Intrinsic or acquired",
+      "Mutation or gene transfer",
+      "Enzymes, targets, entry and efflux"
+    ],
+    "pitfall": "Avoid saying the patient becomes antibiotic-resistant.",
+    "followUp": "How can one mechanism affect several antibiotics?",
+    "sourceIds": [
+      "openstax-amr"
+    ]
+  },
+  {
+    "id": "q014",
+    "title": "Why does a negative culture not prove a sample is microbe-free?",
+    "category": "Foundations",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A culture detects organisms that grow under the tested conditions and within the sampled portion. Low numbers, uneven distribution, injured cells, unsuitable media or inhibitory substances can prevent detection. Report the method-specific finding and its limits rather than claiming absolute absence.",
+    "keyPoints": [
+      "Sampling has limits",
+      "Recovery depends on conditions",
+      "Detection has a defined sensitivity"
+    ],
+    "pitfall": "No growth is not proof of absolute absence.",
+    "followUp": "What controls help distinguish inhibition from true absence?",
+    "sourceIds": [
+      "openstax-growth",
+      "eu-annex1"
+    ]
+  },
+  {
+    "id": "q015",
+    "title": "What does aseptic technique achieve?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "It reduces unintended transfer of microorganisms between the sample, operator and environment. I would follow the approved workflow, use suitable sterile materials, minimize unnecessary exposure and avoid crossing clean and contaminated paths. Appropriate containment follows a task-specific risk assessment.",
+    "keyPoints": [
+      "Protect sample integrity",
+      "Control cross-contamination",
+      "Follow trained site practice"
+    ],
+    "pitfall": "Aseptic does not mean the entire room is sterile.",
+    "followUp": "What would you do if you touched a critical sterile surface?",
+    "sourceIds": [
+      "who-biosafety"
+    ]
+  },
+  {
+    "id": "q016",
+    "title": "How do a biological safety cabinet and a clean bench differ?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A suitable biological safety cabinet provides containment through controlled airflow and filtration. A clean bench primarily protects the product and can direct contaminated air toward the worker. I would select equipment through risk assessment and verify its certification and intended use.",
+    "keyPoints": [
+      "Containment versus product protection",
+      "Airflow direction matters",
+      "Use certified suitable equipment"
+    ],
+    "pitfall": "Never treat a clean bench as a substitute for biological containment.",
+    "followUp": "What activities can disrupt cabinet airflow?",
+    "sourceIds": [
+      "who-cabinets",
+      "who-biosafety"
+    ]
+  },
+  {
+    "id": "q017",
+    "title": "What is the principle of an autoclave?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "An autoclave uses saturated steam at controlled temperature and time to inactivate microorganisms. Steam must contact the load; pressure enables higher temperatures but is not itself the killing agent. The validated cycle depends on the material, packaging and load.",
+    "keyPoints": [
+      "Steam contact is essential",
+      "Time and temperature matter",
+      "Cycle depends on the load"
+    ],
+    "pitfall": "Do not prescribe one time–temperature cycle for every material.",
+    "followUp": "How would trapped air affect sterilization?",
+    "sourceIds": [
+      "cdc-steam"
+    ]
+  },
+  {
+    "id": "q018",
+    "title": "How would you know a sterilization cycle worked?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "I would review the approved cycle's physical records and the required chemical and biological indicators, then compare them with acceptance criteria. Indicator results support the validated process; an external tape colour change alone does not prove that every item is sterile.",
+    "keyPoints": [
+      "Review physical cycle records",
+      "Use required indicators",
+      "Compare with acceptance criteria"
+    ],
+    "pitfall": "Do not release a failed load simply because the tape changed.",
+    "followUp": "What would you do after a failed biological indicator?",
+    "sourceIds": [
+      "cdc-steam"
+    ]
+  },
+  {
+    "id": "q019",
+    "title": "Why use serial dilution?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Serial dilution reduces the concentration of a sample so that a method can measure it within a useful range. Every dilution and plated volume must remain traceable. Consistent mixing and accurate volume transfer reduce error in the final estimate.",
+    "keyPoints": [
+      "Track each dilution",
+      "Account for plated volume",
+      "Mix consistently"
+    ],
+    "pitfall": "Do not confuse dilution with its reciprocal dilution factor.",
+    "followUp": "What does a 10^-3 dilution represent?",
+    "sourceIds": [
+      "fda-bam3"
+    ]
+  },
+  {
+    "id": "q020",
+    "title": "How do you calculate CFU per mL?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "For a simple single-plate example, CFU/mL = colonies ÷ (dilution × plated volume in mL). If 48 colonies grow from 0.1 mL of a 10^-3 dilution, the estimate is 4.8 × 10^5 CFU/mL. Actual reporting follows the method's counting rules.",
+    "keyPoints": [
+      "Use volume in mL",
+      "Include the dilution",
+      "Apply method-specific counting rules"
+    ],
+    "pitfall": "Do not silently average plates that fail the method's criteria.",
+    "followUp": "How would the result change if you plated 1 mL?",
+    "sourceIds": [
+      "fda-bam3"
+    ]
+  },
+  {
+    "id": "q021",
+    "title": "How do streak, spread and pour plates differ?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Streak plating separates cells across a surface to obtain isolated colonies. Spread plating distributes a measured volume over solid agar. Pour plating mixes a measured sample with suitable molten medium, so colonies may develop within and on the agar.",
+    "keyPoints": [
+      "Streak: isolation",
+      "Spread: surface distribution",
+      "Pour: colonies in and on agar"
+    ],
+    "pitfall": "Streak plating is not a quantitative count method by itself.",
+    "followUp": "Why might heat-sensitive organisms recover differently by pour plating?",
+    "sourceIds": [
+      "openstax-growth"
+    ]
+  },
+  {
+    "id": "q022",
+    "title": "Why should identification begin with a pure culture?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A mixed culture can produce misleading biochemical or molecular results because several organisms contribute signals. I would check culture purity using the approved approach before interpreting a test panel and document any evidence of mixed growth.",
+    "keyPoints": [
+      "Mixed signals can mislead",
+      "Confirm purity",
+      "Use several identification features"
+    ],
+    "pitfall": "Do not combine unrelated colonies into one biochemical profile.",
+    "followUp": "Would identical colony appearance prove purity?",
+    "sourceIds": [
+      "openstax-biochem"
+    ]
+  },
+  {
+    "id": "q023",
+    "title": "What does the catalase test detect?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Catalase breaks down hydrogen peroxide into water and oxygen; visible oxygen bubbles indicate a positive reaction under the method's conditions. It is one useful screening feature, commonly in differentiating staphylococci from streptococci, but it does not identify a species alone.",
+    "keyPoints": [
+      "Detects catalase activity",
+      "Bubbles reflect oxygen release",
+      "Interpret as part of a panel"
+    ],
+    "pitfall": "Material from blood-containing medium can interfere; follow the method.",
+    "followUp": "Why are positive and negative controls useful?",
+    "sourceIds": [
+      "asm-catalase",
+      "openstax-oxygen"
+    ]
+  },
+  {
+    "id": "q024",
+    "title": "What do coagulase and oxidase tests tell you?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Coagulase testing detects activity associated with plasma clotting or clumping, depending on the test format. Oxidase testing detects a cytochrome c oxidase-related reaction. Both support identification alongside morphology, culture purity, controls and other tests; neither should be read outside its method limits.",
+    "keyPoints": [
+      "Different tests detect different activities",
+      "Test format affects interpretation",
+      "Use controls and a profile"
+    ],
+    "pitfall": "A single positive reaction is not a complete species identification.",
+    "followUp": "How would you resolve a result that conflicts with the rest of the profile?",
+    "sourceIds": [
+      "asm-coagulase",
+      "asm-oxidase",
+      "fda-bam12"
+    ]
+  },
+  {
+    "id": "q025",
+    "title": "Explain the Kirby–Bauer disk diffusion principle.",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Antimicrobial diffuses from a disk through agar, creating a concentration gradient. Growth inhibition is measured as a zone diameter. A standardized method and current organism–drug breakpoints convert that measurement into an interpretive category; the zone alone is not a treatment recommendation.",
+    "keyPoints": [
+      "Diffusion creates a gradient",
+      "Measure inhibition zone",
+      "Use matching current breakpoints"
+    ],
+    "pitfall": "Do not compare different drugs by the largest zone alone.",
+    "followUp": "Why is inoculum standardization important?",
+    "sourceIds": [
+      "eucast-method",
+      "eucast-breakpoints"
+    ]
+  },
+  {
+    "id": "q026",
+    "title": "Which variables can distort a disk diffusion result?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Inoculum density, medium composition and depth, disk potency, application timing, incubation and zone reading can affect the result. I would check method compliance and quality-control results before interpretation. I would not combine one organization's method with another's breakpoints without validation.",
+    "keyPoints": [
+      "Standardize inoculum and medium",
+      "Check disks and incubation",
+      "Review quality-control results"
+    ],
+    "pitfall": "Do not report susceptibility when required QC is out of range.",
+    "followUp": "How could an overly dense inoculum change zones?",
+    "sourceIds": [
+      "eucast-method"
+    ]
+  },
+  {
+    "id": "q027",
+    "title": "What is MIC, and what does EUCAST's I category mean?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "The MIC is the lowest antimicrobial concentration preventing visible growth under defined test conditions. EUCAST's I means susceptible, increased exposure; it does not mean intermediate. Interpretation requires the organism, drug, method, current breakpoint table and its notes.",
+    "keyPoints": [
+      "MIC is a defined endpoint",
+      "EUCAST I: increased exposure",
+      "Use current matching criteria"
+    ],
+    "pitfall": "Do not substitute old terminology or invent a missing breakpoint.",
+    "followUp": "What would you do if no breakpoint exists for the organism–drug pair?",
+    "sourceIds": [
+      "eucast-breakpoints"
+    ]
+  },
+  {
+    "id": "q028",
+    "title": "What is PCR?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Polymerase chain reaction amplifies a selected DNA region using primers, a suitable polymerase, nucleotides and repeated temperature changes. Its main stages are strand separation, primer annealing and extension. Specificity depends on assay design and controls; a positive signal does not necessarily demonstrate viable cells.",
+    "keyPoints": [
+      "Amplifies a selected DNA target",
+      "Primers guide specificity",
+      "Controls support interpretation"
+    ],
+    "pitfall": "Do not describe conventional PCR as a direct viable count.",
+    "followUp": "What is the role of a no-template control?",
+    "sourceIds": [
+      "openstax-dna"
+    ]
+  },
+  {
+    "id": "q029",
+    "title": "Which controls would you expect in a PCR assay?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A positive control supports the ability to detect the target; a no-template control checks for contamination introduced during setup. Extraction and internal controls, where appropriate, assess extraction performance or inhibition. The validated assay determines the controls and acceptance criteria.",
+    "keyPoints": [
+      "Positive: assay performance",
+      "No-template: contamination check",
+      "Internal/extraction: inhibition or recovery"
+    ],
+    "pitfall": "A clean no-template control does not exclude every possible contamination source.",
+    "followUp": "What would a positive no-template control mean?",
+    "sourceIds": [
+      "qiagen-controls",
+      "openstax-dna"
+    ]
+  },
+  {
+    "id": "q030",
+    "title": "How does agarose gel electrophoresis separate DNA?",
+    "category": "Lab methods",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "DNA's negative charge drives migration toward the positive electrode. The gel acts as a sieve, with smaller linear DNA fragments generally moving farther under comparable conditions. A DNA ladder helps estimate size; staining reveals bands, which require controls for interpretation.",
+    "keyPoints": [
+      "DNA migrates toward positive electrode",
+      "Size affects migration",
+      "Use ladder and controls"
+    ],
+    "pitfall": "Band size alone does not confirm sequence identity.",
+    "followUp": "Why might two fragments of similar size appear as one band?",
+    "sourceIds": [
+      "openstax-dna"
+    ]
+  },
+  {
+    "id": "q031",
+    "title": "Your PCR has no target band. How would you troubleshoot?",
+    "category": "Lab methods",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "First check the assay controls to separate a failed run from a sample-specific issue. Then review sample quality, extraction, inhibition, reagent records and programmed conditions against the validated method. Document the finding and repeat only under an approved investigation plan.",
+    "keyPoints": [
+      "Start with controls",
+      "Consider inhibition and extraction",
+      "Change variables systematically"
+    ],
+    "pitfall": "Do not label a sample negative when required controls failed.",
+    "followUp": "How does an internal control help distinguish inhibition?",
+    "sourceIds": [
+      "qiagen-controls",
+      "openstax-dna",
+      "fda-integrity"
+    ]
+  },
+  {
+    "id": "q032",
+    "title": "How would you respond to an unexpected spill in the laboratory?",
+    "category": "Lab methods",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research"
+    ],
+    "answer": "I would stop work, alert others and follow the site spill and exposure procedure, including any required isolation and reporting. The response depends on the material, exposure route and risk assessment. I would seek trained assistance rather than improvise a cleanup.",
+    "keyPoints": [
+      "Protect people first",
+      "Follow the site procedure",
+      "Report and seek trained help"
+    ],
+    "pitfall": "Do not assume the same cleanup applies to every organism or chemical.",
+    "followUp": "What information should be included in an incident report?",
+    "sourceIds": [
+      "who-biosafety"
+    ]
+  },
+  {
+    "id": "q033",
+    "title": "How do quality assurance and quality control differ?",
+    "category": "Pharma QC",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Quality assurance establishes and maintains systems that support consistent quality. Quality control samples, tests and assesses materials against approved requirements. The functions overlap through investigations, documentation and review; product quality depends on the entire manufacturing system.",
+    "keyPoints": [
+      "QA: quality systems",
+      "QC: testing and assessment",
+      "Both support reliable product quality"
+    ],
+    "pitfall": "Do not say QA is only paperwork or QC alone guarantees quality.",
+    "followUp": "Where would a laboratory deviation involve both functions?",
+    "sourceIds": [
+      "fda-q7"
+    ]
+  },
+  {
+    "id": "q034",
+    "title": "What is GMP, and why does it matter to a fresher?",
+    "category": "Pharma QC",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Good manufacturing practice provides organized controls for consistently producing suitable-quality medicines. For a trainee, it means following current approved procedures, working only after training, maintaining traceable records and reporting deviations promptly. Quality is built into the process, not added by final testing.",
+    "keyPoints": [
+      "Work within training",
+      "Follow approved procedures",
+      "Document and escalate issues"
+    ],
+    "pitfall": "Do not treat a passing final test as a replacement for process control.",
+    "followUp": "What would you do if verbal instructions conflicted with an SOP?",
+    "sourceIds": [
+      "fda-q7"
+    ]
+  },
+  {
+    "id": "q035",
+    "title": "What is ALCOA, and how would you apply it?",
+    "category": "Pharma QC",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "ALCOA means attributable, legible, contemporaneous, original or a true copy, and accurate. I would record work when performed, use my own authorized identity and preserve original observations. Complete, consistent and reliable records allow another trained person to reconstruct what happened.",
+    "keyPoints": [
+      "Identify who did the work",
+      "Record at the time",
+      "Preserve original observations"
+    ],
+    "pitfall": "Never backdate an entry or share credentials.",
+    "followUp": "How would you document a late entry honestly?",
+    "sourceIds": [
+      "fda-integrity"
+    ]
+  },
+  {
+    "id": "q036",
+    "title": "How would you correct a documentation error?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "I would follow the controlled correction procedure while preserving the original entry and recording who corrected it, when and why. Electronic changes should remain traceable through authorized controls and an audit trail. I would never erase an inconvenient result or recreate it from memory.",
+    "keyPoints": [
+      "Preserve the original",
+      "Make the change traceable",
+      "Explain the correction"
+    ],
+    "pitfall": "Do not use overwriting or deletion to hide the initial value.",
+    "followUp": "What is an audit trail used for?",
+    "sourceIds": [
+      "fda-integrity"
+    ]
+  },
+  {
+    "id": "q037",
+    "title": "What are deviation, OOS and OOT?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "A deviation is a departure from an approved requirement or procedure. OOS means a result falls outside an established specification. OOT describes a result inconsistent with an expected pattern or trend; it can still be within specification. Each needs assessment under the applicable quality procedure.",
+    "keyPoints": [
+      "Deviation: departure",
+      "OOS: outside specification",
+      "OOT: unexpected trend"
+    ],
+    "pitfall": "These terms are related but not interchangeable.",
+    "followUp": "Could a within-specification result still need investigation?",
+    "sourceIds": [
+      "hc-gmp"
+    ]
+  },
+  {
+    "id": "q038",
+    "title": "A microbial result is outside specification. What would you do?",
+    "category": "Pharma QC",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "I would promptly notify the responsible person, preserve samples and records, and follow the investigation procedure. Review should consider method execution, media, equipment, controls, sampling and manufacturing context. Retesting requires a justified approved plan; I would not keep repeating until a passing value appears.",
+    "keyPoints": [
+      "Preserve evidence",
+      "Investigate scientifically",
+      "Retest only with justification"
+    ],
+    "pitfall": "A passing repeat does not automatically erase the original result.",
+    "followUp": "What evidence would justify an assignable laboratory cause?",
+    "sourceIds": [
+      "hc-gmp",
+      "fda-integrity"
+    ]
+  },
+  {
+    "id": "q039",
+    "title": "What is CAPA?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Corrective and preventive action addresses causes of problems and reduces recurrence or occurrence. An effective CAPA has a justified cause assessment, assigned actions, responsibilities, deadlines and an effectiveness check. Immediate correction, such as replacing one faulty item, may not address the underlying system.",
+    "keyPoints": [
+      "Address causes",
+      "Assign and track actions",
+      "Check effectiveness"
+    ],
+    "pitfall": "Retraining alone is not an adequate answer to every failure.",
+    "followUp": "How would you know whether a CAPA worked?",
+    "sourceIds": [
+      "fda-q7",
+      "hc-gmp"
+    ]
+  },
+  {
+    "id": "q040",
+    "title": "What is environmental monitoring in sterile manufacturing?",
+    "category": "Pharma QC",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Environmental monitoring collects information on microbial and particle conditions to evaluate control of the manufacturing environment. Locations, methods and frequencies follow risk assessment and the contamination control strategy. Results are reviewed as trends and alongside process information, rather than as isolated pass/fail numbers.",
+    "keyPoints": [
+      "Risk-based sampling",
+      "Trend results",
+      "Connect findings with process control"
+    ],
+    "pitfall": "Environmental monitoring cannot prove that every product unit is sterile.",
+    "followUp": "Why sample during representative operations?",
+    "sourceIds": [
+      "eu-annex1"
+    ]
+  },
+  {
+    "id": "q041",
+    "title": "How do active air sampling and settle plates differ?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Active air sampling examines a measured volume of air, while settle plates collect organisms carried on particles that deposit during an exposure period. They answer different questions and have different units and biases. Neither substitutes automatically for surface or personnel monitoring.",
+    "keyPoints": [
+      "Active: measured air volume",
+      "Settle: deposition over time",
+      "Methods are complementary"
+    ],
+    "pitfall": "Do not directly compare CFU/m³ with CFU per plate.",
+    "followUp": "What can airflow and exposure duration change in settle-plate results?",
+    "sourceIds": [
+      "eu-annex1"
+    ]
+  },
+  {
+    "id": "q042",
+    "title": "What is a contamination control strategy?",
+    "category": "Pharma QC",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "It is an integrated approach to prevent and control contamination across facilities, equipment, personnel, materials and processes. It links risk assessments, preventive controls, monitoring and investigation. Monitoring demonstrates how controls perform; it cannot compensate for a poorly designed process.",
+    "keyPoints": [
+      "Integrate controls across the process",
+      "Use risk assessment",
+      "Review performance and improve"
+    ],
+    "pitfall": "Do not describe it as only a cleaning schedule.",
+    "followUp": "How could one recurring isolate connect water, surfaces and product risk?",
+    "sourceIds": [
+      "eu-annex1"
+    ]
+  },
+  {
+    "id": "q043",
+    "title": "What is a growth promotion test?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "It checks that a culture medium can support the required microorganisms under specified conditions. Selective or differential media may also need tests of inhibition or characteristic response. Appropriate reference organisms, inocula, controls and acceptance criteria follow the applicable method and approved procedure.",
+    "keyPoints": [
+      "Demonstrates medium performance",
+      "Use appropriate reference organisms",
+      "Assess required medium properties"
+    ],
+    "pitfall": "A clear uninoculated plate alone does not show that medium can support growth.",
+    "followUp": "Why are medium sterility checks and growth promotion different?",
+    "sourceIds": [
+      "who-pharma"
+    ]
+  },
+  {
+    "id": "q044",
+    "title": "What is method suitability in microbiological testing?",
+    "category": "Pharma QC",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Method suitability demonstrates that the selected method can detect or recover the required organisms in the presence of the particular product. Product components may inhibit growth or detection. Appropriate neutralization, dilution or other approved measures must be demonstrated rather than assumed.",
+    "keyPoints": [
+      "Product matrix can interfere",
+      "Demonstrate recovery",
+      "Use justified approved controls"
+    ],
+    "pitfall": "Do not assume a compendial method automatically works unchanged for every product.",
+    "followUp": "How could a preservative cause a falsely reassuring result?",
+    "sourceIds": [
+      "who-pharma"
+    ]
+  },
+  {
+    "id": "q045",
+    "title": "How do bioburden, sterility and endotoxin testing differ?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Bioburden measures recoverable viable contamination under a defined method. Sterility testing examines specified samples for viable microorganisms using a prescribed approach. Endotoxin testing measures Gram-negative bacterial endotoxin activity. The tests assess different attributes, so one passing result does not establish the others.",
+    "keyPoints": [
+      "Bioburden: recoverable viable load",
+      "Sterility: specified viable detection test",
+      "Endotoxin: a separate attribute"
+    ],
+    "pitfall": "Sterile does not automatically mean endotoxin-free.",
+    "followUp": "Why can endotoxin remain after viable bacteria are removed?",
+    "sourceIds": [
+      "who-pharma",
+      "fda-endotoxin"
+    ]
+  },
+  {
+    "id": "q046",
+    "title": "What is a media fill or aseptic process simulation?",
+    "category": "Pharma QC",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "It uses a suitable growth medium or other justified approach to simulate aseptic operations and evaluate process control. A representative design considers interventions, personnel and operating conditions. It supports validation; it is not simply a sterility test on a filled product batch.",
+    "keyPoints": [
+      "Simulates aseptic operations",
+      "Represents routine and challenging conditions",
+      "Investigate any contamination"
+    ],
+    "pitfall": "Do not describe a successful simulation as permanent proof of control.",
+    "followUp": "Why must interventions and operators be represented?",
+    "sourceIds": [
+      "eu-annex1"
+    ]
+  },
+  {
+    "id": "q047",
+    "title": "What is the difference between calibration, qualification and validation?",
+    "category": "Pharma QC",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "Calibration relates an instrument's indication to a reference. Qualification demonstrates that equipment is appropriately installed and performs as intended. Validation provides documented evidence that a process or method consistently meets its intended purpose. Passing a calibration alone does not validate a whole test method.",
+    "keyPoints": [
+      "Calibration: measurement relationship",
+      "Qualification: equipment fitness",
+      "Validation: intended process performance"
+    ],
+    "pitfall": "Do not use the three terms as synonyms.",
+    "followUp": "Which checks would you expect before using a new incubator?",
+    "sourceIds": [
+      "who-pharma",
+      "fda-process"
+    ]
+  },
+  {
+    "id": "q048",
+    "title": "Is LAL the only possible approach to bacterial endotoxin testing?",
+    "category": "Pharma QC",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC"
+    ],
+    "answer": "No. Current FDA guidance accommodates suitable recombinant reagents as well as established approaches. The selected assay needs appropriate validation or verification and product-specific suitability, including assessment of interference. I would check the applicable pharmacopoeia, regulatory expectations and approved site method.",
+    "keyPoints": [
+      "Recombinant approaches exist",
+      "Demonstrate product suitability",
+      "Use the applicable approved method"
+    ],
+    "pitfall": "Do not claim every alternative is automatically interchangeable.",
+    "followUp": "What do inhibition and enhancement controls investigate?",
+    "sourceIds": [
+      "fda-endotoxin"
+    ]
+  },
+  {
+    "id": "q049",
+    "title": "Why is Staphylococcus aureus relevant to a sweets project?",
+    "category": "Food & water",
+    "difficulty": "Basic",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Food handling can introduce S. aureus from people, and growth under unsuitable holding conditions may allow enterotoxin formation. A sweets study can examine contamination and hygiene concerns. It cannot establish illness risk or toxin presence from colony appearance alone.",
+    "keyPoints": [
+      "Handling can introduce contamination",
+      "Growth may allow toxin formation",
+      "Detection and toxin testing differ"
+    ],
+    "pitfall": "Do not claim every staphylococcal isolate produces enterotoxin.",
+    "followUp": "Could reheating always make contaminated food safe?",
+    "sourceIds": [
+      "cdc-staph",
+      "fda-bam12"
+    ]
+  },
+  {
+    "id": "q050",
+    "title": "How would you explain your sweets project without overstating it?",
+    "category": "Food & water",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "I would state the objective, sampling approach, culture and identification methods I actually used, my personal contribution and the recorded findings. I would explain limitations such as sample size and confirmation. I would not invent prevalence, resistance patterns or toxin results that are absent from my records.",
+    "keyPoints": [
+      "State your own contribution",
+      "Use actual recorded findings",
+      "Acknowledge sampling and identification limits"
+    ],
+    "pitfall": "The resume lists the project, not a verified numerical dataset.",
+    "followUp": "What evidence allowed you to call an isolate confirmed rather than presumptive?",
+    "sourceIds": [
+      "fda-bam12"
+    ]
+  },
+  {
+    "id": "q051",
+    "title": "Is a colony on selective agar enough to identify S. aureus?",
+    "category": "Food & water",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "No. Selective or differential media provide presumptive evidence. Appropriate confirmation uses the reference method's required tests and controls on suitable isolates. Other organisms can share features, so the final report should match the strength of the evidence obtained.",
+    "keyPoints": [
+      "Appearance is presumptive",
+      "Confirm with the specified method",
+      "Match claims to evidence"
+    ],
+    "pitfall": "Do not call a suspected colony a confirmed pathogen.",
+    "followUp": "What would you do if colony appearance and confirmatory results disagreed?",
+    "sourceIds": [
+      "fda-bam12"
+    ]
+  },
+  {
+    "id": "q052",
+    "title": "What does an aerobic plate count tell you about food?",
+    "category": "Food & water",
+    "difficulty": "Basic",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "It estimates microorganisms recoverable under the specified aerobic culture conditions and can support assessment of process hygiene or product quality. It does not enumerate every microorganism or identify specific pathogens. Interpret it against the relevant product criteria and sampling plan.",
+    "keyPoints": [
+      "Method-dependent recoverable count",
+      "Useful for quality or hygiene assessment",
+      "Not a universal pathogen screen"
+    ],
+    "pitfall": "A low plate count does not by itself prove food is safe.",
+    "followUp": "Why might two count methods give different results?",
+    "sourceIds": [
+      "fda-bam3"
+    ]
+  },
+  {
+    "id": "q053",
+    "title": "What is the MPN method?",
+    "category": "Food & water",
+    "difficulty": "Basic",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Most probable number is a statistical estimate based on patterns of positive and negative growth responses across defined sample portions or dilutions. It is reported with the relevant units and, where required, uncertainty. The estimate is not a direct count of individual cells.",
+    "keyPoints": [
+      "Statistical estimate",
+      "Use positive/negative patterns",
+      "Report correct units and method"
+    ],
+    "pitfall": "Do not treat an MPN table value as an exact number of cells.",
+    "followUp": "Why are confidence limits often wide?",
+    "sourceIds": [
+      "fda-bam4",
+      "fssai-micro"
+    ]
+  },
+  {
+    "id": "q054",
+    "title": "How do total coliforms and E. coli differ as water indicators?",
+    "category": "Food & water",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Total coliforms include organisms from environmental as well as intestinal sources. E. coli is generally a more specific indicator of faecal contamination. Results must be interpreted for the water type, intended use and applicable standard; one indicator does not measure every possible pathogen.",
+    "keyPoints": [
+      "Indicators answer different questions",
+      "E. coli is more faecal-specific",
+      "Use water-specific requirements"
+    ],
+    "pitfall": "Do not equate all coliform detections with confirmed faecal contamination.",
+    "followUp": "Why is microbial safety managed across the whole water supply?",
+    "sourceIds": [
+      "who-water",
+      "fda-bam4"
+    ]
+  },
+  {
+    "id": "q055",
+    "title": "How would you choose between membrane filtration and MPN?",
+    "category": "Food & water",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "I would consider the target organism, expected concentration, sample volume, turbidity, inhibitory substances and the approved reference method. Membrane filtration can process a defined volume, while turbidity or clogging can limit its suitability. Neither method is universally superior.",
+    "keyPoints": [
+      "Match method to sample",
+      "Consider turbidity and inhibition",
+      "Use approved reference procedures"
+    ],
+    "pitfall": "Do not select a method only because it is faster.",
+    "followUp": "What would a heavily turbid water sample change?",
+    "sourceIds": [
+      "fssai-micro"
+    ]
+  },
+  {
+    "id": "q056",
+    "title": "Why is sample handling important in food and water testing?",
+    "category": "Food & water",
+    "difficulty": "Basic",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "A result is only meaningful if the sample represents the intended material and remains traceable. Collection containers, transport conditions, time to analysis and sample identification can change recovery. I would document receipt conditions and flag deviations before testing according to the laboratory procedure.",
+    "keyPoints": [
+      "Maintain identity and traceability",
+      "Control transport and timing",
+      "Record receipt deviations"
+    ],
+    "pitfall": "Do not assume incubation controls can fix an unrepresentative sample.",
+    "followUp": "What would you do with a leaking or unlabelled sample?",
+    "sourceIds": [
+      "fssai-micro",
+      "fda-bam"
+    ]
+  },
+  {
+    "id": "q057",
+    "title": "What are the seven HACCP principles?",
+    "category": "Food & water",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "They cover hazard analysis, identifying critical control points, establishing critical limits, monitoring, corrective actions, validation and verification, and documentation/record keeping. HACCP sits on sound hygiene practices and should be specific to the product and process.",
+    "keyPoints": [
+      "Identify and control significant hazards",
+      "Monitor and respond to loss of control",
+      "Validate, verify and document"
+    ],
+    "pitfall": "Do not label every production step a critical control point.",
+    "followUp": "How do monitoring and verification differ?",
+    "sourceIds": [
+      "codex-hygiene"
+    ]
+  },
+  {
+    "id": "q058",
+    "title": "How do food spoilage, infection and intoxication differ?",
+    "category": "Food & water",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "Spoilage changes a food's quality or acceptability and does not reliably predict safety. Foodborne infection involves harmful organisms entering and establishing in the host. Intoxication results from ingesting a toxin already present in food, as in staphylococcal food poisoning.",
+    "keyPoints": [
+      "Spoilage is a quality concept",
+      "Infection involves the organism",
+      "Intoxication involves preformed toxin"
+    ],
+    "pitfall": "Normal appearance or smell does not prove a food is safe.",
+    "followUp": "Why might viable counts not fully describe a toxin hazard?",
+    "sourceIds": [
+      "cdc-staph",
+      "openstax-media"
+    ]
+  },
+  {
+    "id": "q059",
+    "title": "A plate has too many colonies to count. How would you report it?",
+    "category": "Food & water",
+    "difficulty": "Advanced",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "I would apply the method's countable-range and reporting rules, review available dilutions and controls, and document the observation. If additional analysis is needed, it follows the approved procedure. I would not invent a numerical count or choose a convenient plate outside the method.",
+    "keyPoints": [
+      "Use method-defined counting rules",
+      "Preserve observations",
+      "Justify any additional analysis"
+    ],
+    "pitfall": "There is no single countable range suitable for every method.",
+    "followUp": "What if every tested dilution is outside the valid range?",
+    "sourceIds": [
+      "fda-bam3"
+    ]
+  },
+  {
+    "id": "q060",
+    "title": "Which standards would you consult for an Indian food-testing role?",
+    "category": "Food & water",
+    "difficulty": "Advanced",
+    "roles": [
+      "Food & water",
+      "Research"
+    ],
+    "answer": "I would start with current FSSAI product criteria, sampling requirements and notified methods relevant to the laboratory's scope. Recognized reference methods such as ISO or FDA BAM can provide context where applicable. An international method does not automatically replace an Indian regulatory requirement.",
+    "keyPoints": [
+      "Start with applicable FSSAI requirements",
+      "Check product and method scope",
+      "Confirm the latest notified version"
+    ],
+    "pitfall": "Do not quote one microbial limit for all foods.",
+    "followUp": "Why can process-hygiene criteria differ from food-safety criteria?",
+    "sourceIds": [
+      "fssai-micro",
+      "fda-bam"
+    ]
+  },
+  {
+    "id": "q061",
+    "title": "What is Good Clinical Practice?",
+    "category": "Clinical research",
+    "difficulty": "Basic",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "GCP is an ethical, scientific and quality framework for trials involving human participants. It supports participants' rights, safety and well-being and reliable trial results. For an entry-level role, this means trained work, protocol compliance, accurate records and prompt escalation of issues.",
+    "keyPoints": [
+      "Protect participants",
+      "Generate reliable results",
+      "Work within training and delegation"
+    ],
+    "pitfall": "Do not reduce GCP to completing a consent form.",
+    "followUp": "How would GCP affect routine data-entry work?",
+    "sourceIds": [
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q062",
+    "title": "Your training mentions 13 GCP principles. How would you update that answer?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "My training included the earlier ICH E6 framework. I would now prepare with E6(R3), including its revised principles and Annex 1, with Annex 2 finalized in June 2026. I would confirm regional implementation and the organization's current training rather than present R2's 13 principles as current.",
+    "keyPoints": [
+      "Acknowledge the earlier framework",
+      "Prepare with current R3",
+      "Check local implementation"
+    ],
+    "pitfall": "Do not imply guideline publication means identical legal adoption everywhere.",
+    "followUp": "What do proportionality and quality by design mean?",
+    "sourceIds": [
+      "ich-r3",
+      "ich-annex2"
+    ]
+  },
+  {
+    "id": "q063",
+    "title": "What do clinical trial phases 1 to 4 generally study?",
+    "category": "Clinical research",
+    "difficulty": "Basic",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "Phase 1 focuses on initial safety, tolerability and dosing-related information; phase 2 explores effectiveness and further safety; phase 3 evaluates benefit and risk in larger studies; phase 4 studies occur after approval. Design varies, and phase 1 may involve patients rather than healthy volunteers.",
+    "keyPoints": [
+      "1: initial human safety",
+      "2–3: effectiveness and benefit–risk",
+      "4: after approval"
+    ],
+    "pitfall": "Avoid rigid sample-size rules or saying phase 1 always uses healthy volunteers.",
+    "followUp": "Why might oncology phase 1 trials recruit patients?",
+    "sourceIds": [
+      "fda-phases"
+    ]
+  },
+  {
+    "id": "q064",
+    "title": "What is informed consent?",
+    "category": "Clinical research",
+    "difficulty": "Basic",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "It is a voluntary, understandable, ongoing process that enables a person to decide about trial participation. It includes relevant information, time for questions and proper documentation before applicable study activities. Signing a form alone does not establish understanding or remove the right to withdraw.",
+    "keyPoints": [
+      "Voluntary informed choice",
+      "Process before relevant procedures",
+      "Understanding and ongoing communication"
+    ],
+    "pitfall": "Do not promise participants a guaranteed clinical benefit.",
+    "followUp": "What would you do if a participant seemed confused?",
+    "sourceIds": [
+      "fda-consent"
+    ]
+  },
+  {
+    "id": "q065",
+    "title": "What is the difference between sponsor, investigator and monitor?",
+    "category": "Clinical research",
+    "difficulty": "Basic",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "The sponsor takes responsibility for trial initiation and management and arranges financing. The investigator is responsible for conduct at a site and participant-related oversight. A monitor checks trial conduct and records on the sponsor's behalf; monitoring does not replace investigator or sponsor responsibilities.",
+    "keyPoints": [
+      "Sponsor: trial oversight",
+      "Investigator: site conduct",
+      "Monitor: monitoring activities"
+    ],
+    "pitfall": "Do not describe a monitor as the person who medically treats every participant.",
+    "followUp": "Which tasks can a trainee perform only after delegation and training?",
+    "sourceIds": [
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q066",
+    "title": "What is a clinical trial protocol?",
+    "category": "Clinical research",
+    "difficulty": "Basic",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "A protocol describes the trial's objectives, design, methodology and key organizational and analytical considerations. It guides eligibility, interventions, assessments and data collection. Staff use the approved version and required training; changes need the relevant review and authorization.",
+    "keyPoints": [
+      "Defines the study plan",
+      "Controls eligibility and assessments",
+      "Use the approved version"
+    ],
+    "pitfall": "Do not make an undocumented convenience change at a site.",
+    "followUp": "What is a protocol deviation?",
+    "sourceIds": [
+      "fda-phases",
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q067",
+    "title": "What is the difference between an adverse event and a serious adverse event?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "An adverse event is an unfavourable medical occurrence and need not be caused by the study intervention. Seriousness depends on defined outcomes, such as death, life-threatening events or hospitalization, rather than symptom intensity alone. Trained staff follow the protocol and applicable reporting requirements.",
+    "keyPoints": [
+      "AE does not imply causality",
+      "Seriousness differs from severity",
+      "Escalate under reporting procedures"
+    ],
+    "pitfall": "Do not treat a severe headache as automatically an SAE or a mild hospitalization event as non-serious.",
+    "followUp": "Who assesses causality and reporting requirements?",
+    "sourceIds": [
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q068",
+    "title": "What are source records and case report forms?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "Source records capture original information or its certified copies. A case report form records protocol-required trial data for the sponsor. Entries must be accurate and traceable to the appropriate source; corrections follow controlled procedures. An electronic system does not remove the need for data integrity.",
+    "keyPoints": [
+      "Source supports reconstruction",
+      "CRF captures required data",
+      "Corrections must be traceable"
+    ],
+    "pitfall": "Do not invent missing observations to fill a blank field.",
+    "followUp": "How would you resolve a CRF entry that disagrees with the source?",
+    "sourceIds": [
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q069",
+    "title": "What is randomization, and how does it differ from blinding?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "Randomization uses a chance-based allocation process to reduce selection bias and support valid comparisons. Blinding limits knowledge of assigned interventions to reduce other biases. Allocation concealment protects the assignment process before allocation; it is related to, but distinct from, blinding.",
+    "keyPoints": [
+      "Randomization: chance allocation",
+      "Blinding: limits treatment knowledge",
+      "Concealment protects allocation"
+    ],
+    "pitfall": "Do not say randomization guarantees perfectly balanced groups.",
+    "followUp": "When might emergency unblinding be justified?",
+    "sourceIds": [
+      "ich-r3",
+      "fda-phases"
+    ]
+  },
+  {
+    "id": "q070",
+    "title": "How do bioavailability and bioequivalence differ?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "Bioavailability describes how much and how quickly an administered drug becomes available, often assessed through systemic exposure. Bioequivalence compares relevant exposure between test and reference products under a defined study and statistical framework. It is not established merely by finding the same active ingredient on a label.",
+    "keyPoints": [
+      "BA: rate and extent",
+      "BE: comparison with reference",
+      "Study design and criteria matter"
+    ],
+    "pitfall": "Do not treat identical dose as proof of bioequivalence.",
+    "followUp": "What do AUC and peak concentration help describe?",
+    "sourceIds": [
+      "cdsco-babe"
+    ]
+  },
+  {
+    "id": "q071",
+    "title": "What does a clinical research coordinator or assistant do?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "Responsibilities depend on the site and delegation: they may include visit coordination, document maintenance, data entry and communication with the study team. A fresher works within training and supervision. Medical decisions, consent responsibilities and safety assessments require appropriately qualified, authorized personnel.",
+    "keyPoints": [
+      "Role varies by site",
+      "Delegation and training define duties",
+      "Escalate medical or safety decisions"
+    ],
+    "pitfall": "Do not claim a fresher can independently act as investigator or monitor.",
+    "followUp": "How would you organize several participant visits without missing protocol windows?",
+    "sourceIds": [
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q072",
+    "title": "What would you do if a participant had not properly consented?",
+    "category": "Clinical research",
+    "difficulty": "Advanced",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "I would stop the affected activity, alert the investigator or authorized lead and follow the site process to protect the participant and document the issue. Any necessary safety care must not be delayed. I would not backdate a form or assume a later signature fixes the earlier breach.",
+    "keyPoints": [
+      "Protect the participant",
+      "Escalate and document promptly",
+      "Never backdate consent"
+    ],
+    "pitfall": "Do not independently decide that a consent deviation is harmless.",
+    "followUp": "What follow-up review might the investigator and ethics committee require?",
+    "sourceIds": [
+      "fda-consent",
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q073",
+    "title": "What do quality by design and proportionality mean in E6(R3)?",
+    "category": "Clinical research",
+    "difficulty": "Advanced",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "Quality by design identifies factors critical to participant protection and reliable results while planning the trial. Proportionality matches controls to the importance and risk of those factors. The aim is purposeful, fit-for-purpose oversight rather than identical procedures for every study.",
+    "keyPoints": [
+      "Identify critical-to-quality factors",
+      "Match controls to risk",
+      "Review as the trial evolves"
+    ],
+    "pitfall": "Proportionality is not permission to ignore essential protections.",
+    "followUp": "Which data might be critical to a trial's primary endpoint?",
+    "sourceIds": [
+      "ich-r3",
+      "ich-annex2"
+    ]
+  },
+  {
+    "id": "q074",
+    "title": "How would you protect participant confidentiality?",
+    "category": "Clinical research",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Clinical research"
+    ],
+    "answer": "I would access only authorized information, use approved systems and coded identifiers where required, and share data only through authorized channels. I would follow consent, protocol and applicable privacy requirements. If a disclosure occurred, I would preserve evidence and report it through the incident procedure.",
+    "keyPoints": [
+      "Limit access",
+      "Use approved systems",
+      "Report suspected disclosures"
+    ],
+    "pitfall": "Do not send identifiable participant records through a personal messaging account.",
+    "followUp": "How does coded data differ from truly anonymous data?",
+    "sourceIds": [
+      "ich-r3"
+    ]
+  },
+  {
+    "id": "q075",
+    "title": "Tell me about yourself.",
+    "category": "HR & communication",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "I'm Srijita Banerjee, a 2026 M.Sc. Microbiology graduate from Sister Nivedita University. My internships at BITM and AIIHPH and academic projects gave me exposure to microbiological testing and scientific communication. I'm looking for a trainee role where I can contribute careful work and keep developing under experienced supervision.",
+    "keyPoints": [
+      "Education and graduation year",
+      "Two relevant experiences",
+      "Connect strengths to this role"
+    ],
+    "pitfall": "Use this as a starting draft; do not memorize it word for word.",
+    "followUp": "Which project is most relevant to this vacancy?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q076",
+    "title": "Why should we hire you as a fresher?",
+    "category": "HR & communication",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "I bring a strong microbiology foundation, practical academic and internship exposure, and a willingness to learn your methods carefully. I understand that commercial work requires training and reliable documentation. I would aim to become dependable at assigned tasks, ask timely questions and act on feedback.",
+    "keyPoints": [
+      "Evidence rather than superlatives",
+      "Respect the learning curve",
+      "Emphasize reliable work habits"
+    ],
+    "pitfall": "Do not claim industry independence or techniques you have only observed.",
+    "followUp": "Give one real example of learning a technique quickly.",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q077",
+    "title": "How would you explain your Staphylococcus project in one minute?",
+    "category": "HR & communication",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "Use this structure: the food-safety question, why sweets were studied, how samples were examined, the tests you personally performed, the actual findings, and one limitation. Bring your project notes so you can quote real sample numbers and results. End with what the project taught you about careful identification.",
+    "keyPoints": [
+      "Objective → method → actual finding",
+      "Clarify your personal work",
+      "Name one limitation"
+    ],
+    "pitfall": "The supplied CV does not provide sample numbers or prevalence; never fill those gaps by guessing.",
+    "followUp": "What would you change in a follow-up study?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q078",
+    "title": "Tell me about a challenge using STAR.",
+    "category": "HR & communication",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "Choose a genuine example from a project, internship or group assignment. State the Situation and Task briefly, describe the Actions you personally took, then give the Result and lesson. If the outcome was imperfect, explain what you changed rather than turning it into an invented success.",
+    "keyPoints": [
+      "Use a genuine example",
+      "Make your actions clear",
+      "Finish with outcome and learning"
+    ],
+    "pitfall": "This is a structure, not evidence that any particular incident happened.",
+    "followUp": "How did you know your action helped?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q079",
+    "title": "What would you say when you do not know an answer?",
+    "category": "HR & communication",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "I haven't worked with that method yet. My understanding is [state only what you know]. Before performing it, I would read the approved procedure, complete the required training and ask an experienced colleague to clarify any uncertainty. I'm happy to explain how I would approach learning it.",
+    "keyPoints": [
+      "Be direct about the gap",
+      "Offer related understanding",
+      "Explain a sensible learning approach"
+    ],
+    "pitfall": "Do not bluff a technical limit or invent experience.",
+    "followUp": "Can you connect the unfamiliar method to a principle you understand?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q080",
+    "title": "What is one strength you can support with evidence?",
+    "category": "HR & communication",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "One strength is explaining scientific ideas clearly. At BITM, my internship included biotechnology demonstrations for students and visitors. I would describe one demonstration I actually delivered and how I adjusted my explanation. I can bring that communication habit to teamwork and clear reporting.",
+    "keyPoints": [
+      "Name a relevant strength",
+      "Use a real BITM example",
+      "Connect it to the vacancy"
+    ],
+    "pitfall": "Only use this answer if it accurately reflects your own experience.",
+    "followUp": "How would you explain CFU to someone without a science background?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q081",
+    "title": "What is a development area you are working on?",
+    "category": "HR & communication",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "As a fresher, I am still building familiarity with industry documentation and site-specific quality systems. I am improving by studying data integrity and practicing clear, traceable recording. I would welcome structured training and feedback so I can apply the organization's procedures accurately.",
+    "keyPoints": [
+      "Choose a genuine development area",
+      "Describe action already taken",
+      "Show openness to feedback"
+    ],
+    "pitfall": "Do not claim completed training or practice that you have not actually done.",
+    "followUp": "What have you learned recently about contemporaneous recording?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q082",
+    "title": "Why do you want this role and this company?",
+    "category": "HR & communication",
+    "difficulty": "Intermediate",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "Build the answer from the vacancy: identify one real responsibility, explain which project or training relates to it, and mention one verified aspect of the employer's work. Then explain what you want to learn. For example, water-quality projects can support interest in a food-testing trainee position.",
+    "keyPoints": [
+      "Read the actual job description",
+      "Connect a relevant experience",
+      "Use a verified company fact"
+    ],
+    "pitfall": "Do not give an identical company answer to every employer or invent its products.",
+    "followUp": "Which requirement would need the most training?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q083",
+    "title": "What questions should a fresher ask the interviewer?",
+    "category": "HR & communication",
+    "difficulty": "Basic",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "Ask how trainees are trained and assessed, which methods the role uses most, what successful work looks like in the first three months and how the team gives feedback. Confirm shifts, location and role scope when appropriate. Choose two or three questions that the discussion has not already answered.",
+    "keyPoints": [
+      "Training and supervision",
+      "Early success expectations",
+      "Practical role conditions"
+    ],
+    "pitfall": "Avoid asking only about promotions before understanding the role.",
+    "followUp": "Which answer would help you judge whether the position fits?",
+    "sourceIds": [],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  },
+  {
+    "id": "q084",
+    "title": "How would you handle pressure to change an inconvenient result?",
+    "category": "HR & communication",
+    "difficulty": "Advanced",
+    "roles": [
+      "Pharma QC",
+      "Food & water",
+      "Research",
+      "Clinical research"
+    ],
+    "answer": "I would preserve the original record, explain that results must remain accurate and traceable, and follow the escalation procedure through the supervisor or quality function. I would cooperate with a legitimate investigation but would not change, omit or backdate data to make a result acceptable.",
+    "keyPoints": [
+      "Protect the original data",
+      "Support a legitimate investigation",
+      "Use the escalation route"
+    ],
+    "pitfall": "Do not agree to change data just because the request comes from a senior person.",
+    "followUp": "How can you communicate the concern calmly and professionally?",
+    "sourceIds": [
+      "fda-integrity"
+    ],
+    "provenance": "Original coaching template based on the supplied CV; personalize and use only truthful details."
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "id": "openstax-cells",
+    "title": "Unique Characteristics of Prokaryotic Cells",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells",
+    "type": "Textbook",
+    "note": "Cell structures and bacterial endospores. Original prep explanations; consult chapter for detail."
+  },
+  {
+    "id": "openstax-stain",
+    "title": "Staining Microscopic Specimens",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/2-4-staining-microscopic-specimens",
+    "type": "Textbook",
+    "note": "Principles and limits of differential staining."
+  },
+  {
+    "id": "openstax-growth",
+    "title": "How Microbes Grow",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/9-1-how-microbes-grow",
+    "type": "Textbook",
+    "note": "Growth curves, viable counts and biofilms."
+  },
+  {
+    "id": "openstax-media",
+    "title": "Media Used for Bacterial Growth",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/9-6-media-used-for-bacterial-growth",
+    "type": "Textbook",
+    "note": "Selective, differential and enriched media; media selection depends on the method."
+  },
+  {
+    "id": "openstax-biochem",
+    "title": "Using Biochemistry to Identify Microorganisms",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/7-5-using-biochemistry-to-identify-microorganisms",
+    "type": "Textbook",
+    "note": "Identification uses a profile of evidence, not a single reaction."
+  },
+  {
+    "id": "openstax-dna",
+    "title": "Visualizing and Characterizing DNA, RNA, and Protein",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/12-2-visualizing-and-characterizing-dna-rna-and-protein",
+    "type": "Textbook",
+    "note": "PCR and gel electrophoresis concepts, not a validated laboratory procedure."
+  },
+  {
+    "id": "openstax-amr",
+    "title": "Drug Resistance",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/14-5-drug-resistance",
+    "type": "Textbook",
+    "note": "Resistance mechanisms. No historical burden estimates from this chapter are used."
+  },
+  {
+    "id": "who-biosafety",
+    "title": "Laboratory Biosafety Manual, fourth edition: Risk Assessment",
+    "organization": "World Health Organization",
+    "url": "https://www.who.int/publications-detail-redirect/9789240011458",
+    "type": "Primary guidance",
+    "note": "Risk-based controls, local assessment and training. Follow site SOPs for actual work."
+  },
+  {
+    "id": "cdc-steam",
+    "title": "Steam Sterilization",
+    "organization": "US Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/steam-sterilization.html",
+    "type": "Primary guidance",
+    "note": "Explains steam contact and load-dependent cycles; no single cycle fits every load."
+  },
+  {
+    "id": "cdc-disinfection",
+    "title": "Recommendations for Disinfection and Sterilization",
+    "organization": "US Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations.html",
+    "type": "Primary guidance",
+    "note": "Healthcare equipment guidance; context should not be confused with product-specific pharmaceutical requirements."
+  },
+  {
+    "id": "eucast-method",
+    "title": "Disk Diffusion and Quality Control",
+    "organization": "EUCAST",
+    "url": "https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/",
+    "type": "Primary guidance",
+    "note": "Use a complete, internally consistent method and its current QC requirements."
+  },
+  {
+    "id": "eucast-breakpoints",
+    "title": "Clinical Breakpoint Tables",
+    "organization": "EUCAST",
+    "url": "https://www.eucast.org/bacteria/clinical-breakpoints-and-interpretation/clinical-breakpoint-tables/",
+    "type": "Primary guidance",
+    "note": "Checked 30 October 2026: v16.1 displayed. I means susceptible, increased exposure. Recheck version and footnotes before use."
+  },
+  {
+    "id": "eu-annex1",
+    "title": "Annex 1: Manufacture of Sterile Medicinal Products",
+    "organization": "European Commission",
+    "url": "https://health.ec.europa.eu/latest-updates/revision-manufacture-sterile-medicinal-products-2022-08-25_en",
+    "type": "Primary guidance",
+    "note": "2022 revision. EU GMP principles for sterile manufacture; exact site specifications require applicable standards and approved SOPs."
+  },
+  {
+    "id": "fda-integrity",
+    "title": "Data Integrity and Compliance With Drug CGMP: Questions and Answers",
+    "organization": "US FDA / HHS",
+    "url": "https://www.hhs.gov/guidance/document/data-integrity-and-compliance-drug-cgmp-questions-and-answers-guidance-industry",
+    "type": "Primary guidance",
+    "note": "Final guidance dated December 2018; ALCOA and complete, reliable records."
+  },
+  {
+    "id": "fda-q7",
+    "title": "Q7A Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients",
+    "organization": "US FDA / ICH",
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/q7a-good-manufacturing-practice-guidance-active-pharmaceutical-ingredients",
+    "type": "Primary guidance",
+    "note": "API GMP context: quality systems, documentation, deviations and investigations."
+  },
+  {
+    "id": "hc-gmp",
+    "title": "Good manufacturing practices guide for drug products (GUI-0001)",
+    "organization": "Health Canada",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-health-products/compliance-enforcement/good-manufacturing-practices/guidance-documents/gmp-guidelines-0001/document.html",
+    "type": "Primary guidance",
+    "note": "Includes investigation of OOS/OOT findings. Local procedures and applicable jurisdiction govern real decisions."
+  },
+  {
+    "id": "fda-endotoxin",
+    "title": "Pyrogen and Endotoxins Testing — Questions and Answers, Edition 2",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/media/83477/download",
+    "type": "Primary guidance",
+    "note": "March 2026 revision. Includes flexibility for suitable recombinant reagents; sterility and endotoxin are separate attributes."
+  },
+  {
+    "id": "fda-bam",
+    "title": "Bacteriological Analytical Manual",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/food/laboratory-methods-food/bacteriological-analytical-manual-bam",
+    "type": "Primary guidance",
+    "note": "Food and cosmetics methods. BAM is not automatically the governing Indian regulatory method."
+  },
+  {
+    "id": "fda-bam3",
+    "title": "BAM Chapter 3: Aerobic Plate Count",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/food/laboratory-methods-food/bam-chapter-3-aerobic-plate-count",
+    "type": "Primary guidance",
+    "note": "Current page checked 30 October 2026 displays January 2026 edition. Counting/reporting rules depend on method."
+  },
+  {
+    "id": "fda-bam4",
+    "title": "BAM Chapter 4: Enumeration of E. coli and Coliform Bacteria",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/food/laboratory-methods-food/bam-chapter-4-enumeration-escherichia-coli-and-coliform-bacteria",
+    "type": "Primary guidance",
+    "note": "October 2020 edition shown; includes indicator-organism methods."
+  },
+  {
+    "id": "fda-bam12",
+    "title": "BAM Chapter 12: Staphylococcus aureus",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/food/laboratory-methods/bam-staphylococcus-aureus",
+    "type": "Primary guidance",
+    "note": "March 2016 edition shown. Presumptive appearance requires appropriate confirmation."
+  },
+  {
+    "id": "ich-r3",
+    "title": "E6(R3) Good Clinical Practice",
+    "organization": "US FDA / ICH",
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/e6r3-good-clinical-practice-gcp",
+    "type": "Primary guidance",
+    "note": "FDA September 2025 guidance for principles and Annex 1. Use current R3 concepts rather than presenting R2's 13 principles as current."
+  },
+  {
+    "id": "ich-annex2",
+    "title": "ICH E6(R3) Annex 2, final guideline",
+    "organization": "International Council for Harmonisation",
+    "url": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Annex%202_Guideline_Step%204_2026_0603_0.pdf",
+    "type": "Primary guidance",
+    "note": "Adopted 3 June 2026. Adds considerations for varied trial designs and data sources. Regional implementation differs."
+  },
+  {
+    "id": "fda-consent",
+    "title": "Informed Consent: Guidance for IRBs, Clinical Investigators, and Sponsors",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/informed-consent",
+    "type": "Primary guidance",
+    "note": "August 2023 guidance. Informed consent is a continuing process; jurisdiction-specific requirements still apply."
+  },
+  {
+    "id": "fda-phases",
+    "title": "Step 3: Clinical Research",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/patients/drug-development-process/step-3-clinical-research",
+    "type": "Primary guidance",
+    "note": "Clinical trial phase purposes and protocol design. Phase 1 is not always in healthy volunteers."
+  },
+  {
+    "id": "cdsco-babe",
+    "title": "Bioavailability / Bioequivalence",
+    "organization": "Central Drugs Standard Control Organization, India",
+    "url": "https://www.cdsco.gov.in/opencms/opencms/en/bioequi_bioavail/",
+    "type": "Primary guidance",
+    "note": "Indian regulatory context for BA/BE studies; consult applicable NDCTR and CDSCO guidance."
+  },
+  {
+    "id": "who-pharma",
+    "title": "WHO good practices for pharmaceutical microbiology laboratories",
+    "organization": "World Health Organization",
+    "url": "https://www.who.int/publications/m/item/trs961-annex2",
+    "type": "Primary guidance",
+    "note": "TRS 961 Annex 2, 2011; microbiology-specific guidance for media, equipment, methods and records."
+  },
+  {
+    "id": "fda-process",
+    "title": "Process Validation: General Principles and Practices",
+    "organization": "US FDA",
+    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/process-validation-general-principles-and-practices",
+    "type": "Primary guidance",
+    "note": "January 2011 guidance describes lifecycle validation; product and process context matters."
+  },
+  {
+    "id": "fssai-micro",
+    "title": "Manual of Methods of Analysis: Microbiological Examination of Food and Water",
+    "organization": "Food Safety and Standards Authority of India",
+    "url": "https://fssai.gov.in/upload/uploadfiles/files/Manual%20on%20Microbiological%20Examination%20of%20Food%20and%20Water_compressed.pdf",
+    "type": "Primary guidance",
+    "note": "May 2024 manual. Confirm latest FSSAI notifications, product criteria and laboratory scope for regulatory work."
+  },
+  {
+    "id": "who-water",
+    "title": "Guidelines for drinking-water quality, fourth edition with first, second and third addenda",
+    "organization": "World Health Organization",
+    "url": "https://www.who.int/publications/i/item/9789240121225",
+    "type": "Primary guidance",
+    "note": "17 June 2026 edition. Risk management from catchment to consumer and independent surveillance."
+  },
+  {
+    "id": "cdc-staph",
+    "title": "About Staph Food Poisoning",
+    "organization": "US Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/staph-food-poisoning/about/",
+    "type": "Primary guidance",
+    "note": "Food poisoning can result from preformed toxin; killing bacteria does not necessarily eliminate toxin."
+  },
+  {
+    "id": "codex-hygiene",
+    "title": "General Principles of Food Hygiene, CXC 1-1969",
+    "organization": "FAO / WHO Codex Alimentarius",
+    "url": "https://doi.org/10.4060/cc6125en",
+    "type": "Primary guidance",
+    "note": "Official DOI linked by the Codex Secretariat for the 2023 FAO/WHO publication of CXC 1-1969, incorporating the 2022 revision. Includes good hygiene practices and HACCP."
+  },
+  {
+    "id": "openstax-oxygen",
+    "title": "Oxygen Requirements for Microbial Growth",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/9-2-oxygen-requirements-for-microbial-growth",
+    "type": "Textbook",
+    "note": "Direct support for oxygen requirement categories and catalase reaction principles."
+  },
+  {
+    "id": "openstax-infection",
+    "title": "Characteristics of Infectious Disease",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/15-1-characteristics-of-infectious-disease",
+    "type": "Textbook",
+    "note": "Colonization, signs and symptoms, and asymptomatic infection. Educational context; culture results alone do not establish a diagnosis."
+  },
+  {
+    "id": "openstax-toxins",
+    "title": "Virulence Factors of Bacterial and Viral Pathogens",
+    "organization": "OpenStax / American Society for Microbiology",
+    "url": "https://openstax.org/books/microbiology/pages/15-3-virulence-factors-of-bacterial-and-viral-pathogens",
+    "type": "Textbook",
+    "note": "Direct support for the molecular distinction between endotoxins and exotoxins; use current FDA guidance for product testing."
+  },
+  {
+    "id": "asm-catalase",
+    "title": "Catalase Test Protocol",
+    "organization": "American Society for Microbiology",
+    "url": "https://asm.org/protocols/catalase-test-protocol",
+    "type": "Primary guidance",
+    "note": "Professional society educational protocol; catalase principle, interpretation and controls. Actual testing follows the approved laboratory method."
+  },
+  {
+    "id": "asm-oxidase",
+    "title": "Oxidase Test Protocol",
+    "organization": "American Society for Microbiology",
+    "url": "https://asm.org/protocols/oxidase-test-protocol",
+    "type": "Primary guidance",
+    "note": "Professional society educational protocol; cytochrome c oxidase reaction and interpretation limitations."
+  },
+  {
+    "id": "asm-coagulase",
+    "title": "Coagulase Test Protocol",
+    "organization": "American Society for Microbiology",
+    "url": "https://asm.org/protocols/coagulase-test-protocol",
+    "type": "Primary guidance",
+    "note": "Explains tube clotting and slide clumping formats; a single result is not a full species identification."
+  },
+  {
+    "id": "who-cabinets",
+    "title": "Biological safety cabinets and other primary containment devices",
+    "organization": "World Health Organization",
+    "url": "https://www.who.int/publications/i/item/9789240011335",
+    "type": "Primary guidance",
+    "note": "Laboratory Biosafety Manual fourth-edition monograph, 2020; containment, airflow, equipment selection and safe use."
+  },
+  {
+    "id": "qiagen-controls",
+    "title": "Importance of PCR controls",
+    "organization": "QIAGEN",
+    "url": "https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/pcr/reference-genes-and-controls/pcr-controls",
+    "type": "Primary guidance",
+    "note": "Manufacturer technical guide covering positive, no-template and internal controls, inhibition and extraction failure; not regulatory guidance or an endorsement of a product."
+  },
+  {
+    "id": "cdc-ecology",
+    "title": "About Microbial Ecology",
+    "organization": "US Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/antimicrobial-resistance/about/about-microbial-ecology.html",
+    "type": "Primary guidance",
+    "note": "Defines colonization and explains its relationship to infection; does not make individual culture findings diagnostic."
+  }
+]
